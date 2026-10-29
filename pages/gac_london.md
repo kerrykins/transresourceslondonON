@@ -6,6 +6,7 @@ last_updated: October 29, 2026
 summary: "A list of medical providers that provide gender-affirming care in London, ON"
 sidebar: mydoc_sidebar
 permalink: london_gac.html
+datatable: true
 ---
 
 ## GAC Medical Providers (London)
@@ -19,6 +20,16 @@ Below is a list of clinics/medical professionals that offer GAC in London, Ontar
 {% include note.html content="Unless noted, you must be referred to the clinic/doctor by a doctor or NP. " %}
 
 ### OHIP Covered 
+
+<div class="datatable-begin"></div>
+
+Provider Name   | Type of Provider                           | Services | Notes
+------- | ------------------------------------- | -------- | -----------
+**Dr. AJ MacDonald**  | Primary (MD) |     | 519-433-2996
+[**Horizon Care Ontario**](https://horizon-care.ca/) | Primary (MD)  | HRT <br> 1st Surgery Assess. <br> 2nd Surgery Assess. <br> Psychosocial Support | Virtual <br> Self-referral
+
+<div class="datatable-end"></div>
+
 
 | Name of Service | Provider | Services | Notes |
 | :------- | :------- | :------ | :------- | :------- |
