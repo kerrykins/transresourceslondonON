@@ -129,7 +129,7 @@ entries:
       output: web, pdf
 
     - title: Hair Removal
-      url: 
+      url: /london_hair.html
       output: web, pdf
 
     - title: ID Clinics

@@ -12,8 +12,6 @@ permalink: london_therapy.html
 
 {% include callout.html content="**Methodology**: Most psychotherapists listed below were found either in the *Gender Affirming Resources* spreadsheet or from Psychology Today. <br> <br> In Psychology Today, therapists can list three specialities and many areas of expertise. Only therapists noting they specialise in trans, queer, neurodivergent, and ENM are listed below. " type="info" %} 
 
-
-
 ## In-Person AND Virtual
 
 | Name | Practitioner | Services | Specialty | Notes |
