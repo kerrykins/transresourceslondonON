@@ -89,7 +89,7 @@ entries:
 
     folderitems:
     - title: Gender Affirming Care Guidelines
-      url: /gac_london.html
+      url: 
       output: web, pdf
 
     - title: Hormone Replacement Therapy (HRT)
@@ -109,51 +109,51 @@ entries:
 
     folderitems:
     - title: GAC Medical Providers
-      url: /mydoc_sidebar_navigation.html
+      url: /london_gac.html
       output: web, pdf
 
     - title: Compounding Pharmacies
-      url: /mydoc_yaml_tutorial.html
+      url: 
       output: web, pdf
 
     - title: Injection Supplies
-      url: /mydoc_tags.html
+      url: 
       output: web, pdf
 
     - title: Allied Healthcare
-      url: /mydoc_series.html
+      url: 
       output: web, pdf
 
     - title: Psychotherapy
-      url: /mydoc_adding_tooltips.html
+      url: 
       output: web, pdf
 
     - title: Hair Removal
-      url: /mydoc_alerts.html
+      url: 
       output: web, pdf
 
     - title: ID Clinics
-      url: /mydoc_icons.html
+      url: 
       output: web, pdf
 
     - title: Voice Training
-      url: /mydoc_images.html
+      url: 
       output: web, pdf
 
     - title: Clothing and Accessories
-      url: /mydoc_code_samples.html
+      url: 
       output: web, pdf
 
     - title: Queer & Trans Socials
-      url: /mydoc_labels.html
+      url: 
       output: web, pdf
 
     - title: Food Support
-      url: /mydoc_hyperlinks.html
+      url: 
       output: web, pdf
 
     - title: Housing
-      url: /mydoc_navtabs.html
+      url: 
       output: web, pdf
 
 #  - title: Tag archives
