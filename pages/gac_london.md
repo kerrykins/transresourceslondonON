@@ -1,37 +1,22 @@
 ---
 title: Gender-Affirming Medical Care Providers
-description: A list of medical providers that provide gender-affirming care in London, ON
-author: kerrykins
-date: 2026-10-26 00:00:00 -0400
-categories: [London-Specific]
-tags: [info, trans, LGBTQ+, LondonON, gender-affirming care]
-pin: false
-math: false
-mermaid: true
-toc: true
-comments: true
-
+tags: [formatting]
+keywords: notes, tips, cautions, warnings, admonitions
+last_updated: October 29, 2026
+summary: "A list of medical providers that provide gender-affirming care in London, ON"
+sidebar: mydoc_sidebar
+permalink: london_gac.html
 ---
 
 ## GAC Medical Providers (London)
 
 Below is a list of clinics/medical professionals that offer GAC in London, Ontario. This includes virtual and private pay options.
 
-> Check with the office as intake may be closed.
-{: .prompt-warning }
+{% include important.html content="Check with the office as intake may be closed." %}
 
-> **Abbreviations and Definitions** <br> 
-> - **MD**: Doctor holding a Doctor of Medicine (MD). Family doctors and specialists hold a MD. <br> 
-> - **Primary (MD)**: Family doctor, usually licensed by College of Family Physicians of Canada (CCFP). <br> 
-> - **OB/GYN**: Specialist in obstetrics and gynaecology. <br> 
-> - **Endocrinologist**: Specialist in dealing with the endocrine system, its diseases, and hormones. <br> 
-> - **Psychiatrist**: Specialist in the diagnosis, treatment, and prevention of mental conditions. <br> 
-> - **NP**: Nurse Practtioner. Advanced registered nurse trained to assess, order & interpret diagnostic tests, diagnose disease, prescribe medications, and formulate treatment plans. <br> 
-> - **Assess.**: Abbreviation for 'assessment'. 
-{: .prompt-info }
+{% include note.html content="**Abbreviations and Definitions** <br> - **MD**: Doctor holding a Doctor of Medicine (MD). Family doctors and specialists hold a MD. <br> - **Primary (MD)**: Family doctor, usually licensed by College of Family Physicians of Canada (CCFP). <br> - **OB/GYN**: Specialist in obstetrics and gynaecology. <br> - **Endocrinologist**: Specialist in dealing with the endocrine system, its diseases, and hormones. <br> - **Psychiatrist**: Specialist in the diagnosis, treatment, and prevention of mental conditions. <br> - **NP**: Nurse Practtioner. Advanced registered nurse trained to assess, order & interpret diagnostic tests, diagnose disease, prescribe medications, and formulate treatment plans. <br> - **Assess.**: Abbreviation for 'assessment'. " %}
 
-> Unless noted, you must be referred to the clinic/doctor by a doctor or NP. 
-{: .prompt-info }
+{% include note.html content="Unless noted, you must be referred to the clinic/doctor by a doctor or NP. " %}
 
 ### OHIP Covered 
 

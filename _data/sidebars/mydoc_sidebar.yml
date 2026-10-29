@@ -89,7 +89,7 @@ entries:
 
     folderitems:
     - title: Gender Affirming Care Guidelines
-      url: /mydoc_pages.html
+      url: /gac_london.html
       output: web, pdf
 
     - title: Hormone Replacement Therapy (HRT)
