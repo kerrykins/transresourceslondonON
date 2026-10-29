@@ -133,19 +133,19 @@ entries:
       output: web, pdf
 
     - title: ID Clinics
-      url: 
+      url: /london_id.html
       output: web, pdf
 
     - title: Voice Training
-      url: 
+      url: /london_voice.html
       output: web, pdf
 
     - title: Clothing and Accessories
-      url: 
+      url: /london_clothing.html
       output: web, pdf
 
     - title: Queer & Trans Socials
-      url: 
+      url: /london_social.html
       output: web, pdf
 
     - title: Food Support
@@ -170,6 +170,10 @@ entries:
 
         - title: Organisations Pages
           url: /tag_organisations.html
+          output: web
+
+        - title: Social Life Pages
+          url: /tag_social.html
           output: web
           
           

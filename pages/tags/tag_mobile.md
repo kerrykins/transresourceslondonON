@@ -1,8 +1,8 @@
 ---
-title: "Mobile Pages"
+title: "Social Life pages"
 search: exclude
 tagName: mobile
-permalink: tag_mobile.html
+permalink: tag_social.html
 sidebar: mydoc_sidebar
 folder: tags
 ---
