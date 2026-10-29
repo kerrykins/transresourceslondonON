@@ -1,9 +1,9 @@
 ## Topnav single links
 ## if you want to list an external url, use external_url instead of url. the theme will apply a different link base.
 topnav:
-- title: Kerry's Blog
+- title: 
   items:
-    - title: GitHub
+    - title: Kerry's Blog
       external_url: https://kerrykins.github.io
 
 #Topnav dropdowns
