@@ -1,7 +1,7 @@
 ---
 title: Gender-Affirming Medical Care Providers
-tags: [formatting]
-keywords: notes, tips, cautions, warnings, admonitions
+tags: [GAC, LondonON]
+keywords: 
 last_updated: October 29, 2026
 summary: "A list of medical providers that provide gender-affirming care in London, ON"
 sidebar: mydoc_sidebar
@@ -14,7 +14,7 @@ Below is a list of clinics/medical professionals that offer GAC in London, Ontar
 
 {% include important.html content="Check with the office as intake may be closed." %}
 
-{% include note.html content="**Abbreviations and Definitions** <br> - **MD**: Doctor holding a Doctor of Medicine (MD). Family doctors and specialists hold a MD. <br> - **Primary (MD)**: Family doctor, usually licensed by College of Family Physicians of Canada (CCFP). <br> - **OB/GYN**: Specialist in obstetrics and gynaecology. <br> - **Endocrinologist**: Specialist in dealing with the endocrine system, its diseases, and hormones. <br> - **Psychiatrist**: Specialist in the diagnosis, treatment, and prevention of mental conditions. <br> - **NP**: Nurse Practtioner. Advanced registered nurse trained to assess, order & interpret diagnostic tests, diagnose disease, prescribe medications, and formulate treatment plans. <br> - **Assess.**: Abbreviation for 'assessment'. " %}
+{% include note.html content="**Abbreviations and Definitions** <br> <br> - **MD**: Doctor holding a Doctor of Medicine (MD). Family doctors and specialists hold a MD. <br> - **Primary (MD)**: Family doctor, usually licensed by College of Family Physicians of Canada (CCFP). <br> - **OB/GYN**: Specialist in obstetrics and gynaecology. <br> - **Endocrinologist**: Specialist in dealing with the endocrine system, its diseases, and hormones. <br> - **Psychiatrist**: Specialist in the diagnosis, treatment, and prevention of mental conditions. <br> - **NP**: Nurse Practtioner. Advanced registered nurse trained to assess, order & interpret diagnostic tests, diagnose disease, prescribe medications, and formulate treatment plans. <br> - **Assess.**: Abbreviation for 'assessment'. " %}
 
 {% include note.html content="Unless noted, you must be referred to the clinic/doctor by a doctor or NP. " %}
 
