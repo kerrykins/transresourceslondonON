@@ -1,8 +1,8 @@
 ---
-title: "Content types pages"
-tagName: content_types
+title: "Medical Care pages"
+tagName: medical_care
 search: exclude
-permalink: tag_content_types.html
+permalink: tag_medical_care.html
 sidebar: mydoc_sidebar
 folder: tags
 ---
