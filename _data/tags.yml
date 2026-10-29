@@ -4,7 +4,7 @@
 allowed-tags:
   - LondonON
   - medical_care
-  - navigation
+  - organisations
   - formatting
   - publishing
   - single_sourcing
@@ -14,4 +14,4 @@ allowed-tags:
   - troubleshooting
   - mobile
 
-# Copyright 2021 Google LLC
+

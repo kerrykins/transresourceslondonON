@@ -160,11 +160,6 @@ entries:
     output: web
     folderitems:
 
-      subfolders:
-      - title: Tag Archives
-        output: web
-        subfolderitems:
-
         - title: London, ON Pages
           url: /tag_LondonON.html
           output: web
@@ -172,5 +167,11 @@ entries:
         - title: Medical Care Pages
           url: /tag_medical_care.html
           output: web
+
+        - title: Organisations Pages
+          url: /tag_organisations.html
+          output: web
+          
+          
 
  # Copyright 2021 Google LLC

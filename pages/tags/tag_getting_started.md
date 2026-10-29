@@ -1,8 +1,8 @@
 ---
-title: "Getting started pages"
-tagName: getting_started
+title: "Organisations pages"
+tagName: organisations
 search: exclude
-permalink: tag_getting_started.html
+permalink: tag_organisations.html
 sidebar: mydoc_sidebar
 folder: tags
 ---
