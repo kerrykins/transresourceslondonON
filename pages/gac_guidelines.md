@@ -1,6 +1,6 @@
 ---
 title: Gender Affirming Care & Guidelines
-tags: [medical_care, guidelines]
+tags: [medical_care, guidelines, getting_started]
 keywords: 
 last_updated: October 29, 2026
 summary: "Introduction to gender-affirming medical care (HRT and TRS) and a list of existing guidelines for administering HRT and accessing transition-related surgeries."

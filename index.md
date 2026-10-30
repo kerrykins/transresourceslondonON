@@ -1,10 +1,11 @@
 ---
-title: "Getting started with the Gender-Affirming Resources Guide"
+title: Getting started with the Gender-Affirming Resources Guide
 keywords: 
-tags: [getting_started]
+tags: 
 sidebar: mydoc_sidebar
 permalink: index.html
 summary: Brief instructions to help you get started with using this guide.
+
 ---
 
 {% include tip.html content="This was written as part of a resource post for the Queer Nexus Discord server for Trans Awareness Month 2026 🏳️‍⚧️." %}
@@ -14,6 +15,72 @@ summary: Brief instructions to help you get started with using this guide.
 {% include warning.html content="I do not take any responsibility for the accuracy of the information presented in this guide. Efforts have been made to ensure the information is up to date, accurate, and well-researched. " %}
 
 {% include note.html content="**Current Status (10/28/26)** <br> Working on verifying and adding London-specific resources for: <br> - Compounding Pharmacies <br> - Permanent Hair Removal <br> - Trans-friendly Psychotherapists <br> - ID Change Clinics <br> - Queer & Trans Socials <br> - Housing & Food" %}
+
+<div class="row">
+         <div class="col-lg-12">
+             <h2 class="page-header">Points of Interest</h2>
+         </div>
+         <div class="col-md-3 col-sm-6">
+             <div class="panel panel-default text-center">
+                 <div class="panel-heading">
+                     <span class="fa-stack fa-5x">
+                           <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                           <i class="fa fa-tree fa-stack-1x fa-inverse"></i>
+                     </span>
+                 </div>
+                 <div class="panel-body">
+                     <h4>Organisations</h4>
+                     <p>List of gender-affirming organisations.</p>
+                     <a href="tag_organisations.html" class="btn btn-primary">Learn More</a>
+                 </div>
+             </div>
+         </div>
+         <div class="col-md-3 col-sm-6">
+             <div class="panel panel-default text-center">
+                 <div class="panel-heading">
+                     <span class="fa-stack fa-5x">
+                           <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                           <i class="fa fa-car fa-stack-1x fa-inverse"></i>
+                     </span>
+                 </div>
+                 <div class="panel-body">
+                     <h4>Medical Care</h4>
+                     <p>List of resources related to medical gender-affirming care.</p>
+                     <a href="tag_medical_care.html" class="btn btn-primary">Learn More</a>
+                 </div>
+             </div>
+         </div>
+         <div class="col-md-3 col-sm-6">
+             <div class="panel panel-default text-center">
+                 <div class="panel-heading">
+                     <span class="fa-stack fa-5x">
+                           <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                           <i class="fa fa-support fa-stack-1x fa-inverse"></i>
+                     </span>
+                 </div>
+                 <div class="panel-body">
+                     <h4>Knowledge Base</h4>
+                     <p>Collection of links to useful resources.</p>
+                     <a href="tag_resources.html" class="btn btn-primary">Learn More</a>
+                 </div>
+             </div>
+         </div>
+         <div class="col-md-3 col-sm-6">
+             <div class="panel panel-default text-center">
+                 <div class="panel-heading">
+                     <span class="fa-stack fa-5x">
+                           <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                           <i class="fa fa-database fa-stack-1x fa-inverse"></i>
+                     </span>
+                 </div>
+                 <div class="panel-body">
+                     <h4>London Specific</h4>
+                     <p>A list of resources relevant to London, ON.</p>
+                     <a href="tag_LondonON.html" class="btn btn-primary">Learn More</a>
+                 </div>
+             </div>
+         </div>
+</div>
 
 ## Introduction 
 
