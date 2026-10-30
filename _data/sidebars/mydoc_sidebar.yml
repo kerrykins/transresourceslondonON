@@ -27,9 +27,13 @@ entries:
       url: /index.html
       output: web, pdf
       type: homepage
+      
+    - title: About the Author
+      url: 
+      output: web, pdf
 
-    - title: About the Guide & Author
-      url: about.html
+    - title: FAQ
+      url: /about.html
       output: web, pdf
 
   - title: Organisations
