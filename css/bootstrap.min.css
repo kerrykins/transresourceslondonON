@@ -5689,21 +5689,21 @@ a.label:hover {
     background-color: #c9302c
 }
 
-.label-note {
+.label-secondary {
     background-color: #5C2C23
 }
 
-.label-note[href]:focus,
-.label-note[href]:hover {
+.label-secondary[href]:focus,
+.label-secondary[href]:hover {
     background-color: #c9302c
 }
 
-.label-paper {
+.label-third {
     background-color: #DE882F
 }
 
-.label-paper[href]:focus,
-.label-paper[href]:hover {
+.label-third[href]:focus,
+.label-third[href]:hover {
     background-color: #c9302c
 }
 
