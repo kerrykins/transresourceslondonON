@@ -29,7 +29,7 @@ Provider Name   | Type of Provider                           | Services | Notes
 [**Horizon Care Ontario**](https://horizon-care.ca/) | Primary (MD)  | HRT <br> 1st Surgery Assess. <br> 2nd Surgery Assess. <br> Psychosocial Support | Virtual <br> Self-referral
 [**Western University** <br> **Health & Wellness**](https://www.uwo.ca/health/index.html) <br> 519-661-3030 | Primary (MD) | HRT <br> 1st Surgery Assess. <br> 2nd Surgery Assess. <br> Post-Op Care <br> Psychosocial Support | UWO students only. 
 [**Gender Care @ LIHC**](https://lihc.on.ca/programs-services/gender-care/) <br> 519-660-0874 ext. 3  <br>  transhealth@lihc.on.ca | Primary (NP) | HRT <br> Puberty Suppression <br> 1st Surgery Assess. <br> 2nd Surgery Assess. <br> Post-Op Care <br> Psychosocial Support | 16+ only <br> Intake CLOSED 
-[**JHunter NP Services**](https://www.jhunternpservices.ca/) <br> *Virtual* <br> *Self-Referral* | Primary (NP) | Unknown | RHO training suggests training <br> in HRT, surgery, and puberty <br> supprression. 
+[**JHunter NP Services**](https://www.jhunternpservices.ca/) <br> *Virtual* <br> *Self-Referral* | Primary (NP) | Unknown | RHO training suggests training in HRT, surgery, and puberty supprression. 
 **Dr. Emily Brennan** <br> 519-850-3234 | Endocrinologist | HRT |
 **Dr. Julia Creider** <br> 519-601-8621 | Endocrinologist | HRT |  
 **Dr. Ranjit Singarayer** <br> 226-680-0802 | Endocrinologist | HRT |  
