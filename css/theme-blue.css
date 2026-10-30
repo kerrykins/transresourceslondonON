@@ -68,7 +68,7 @@ a.navbar-brand:hover {
 
 .btn-primary {
     color: #ffffff;
-    background-color: #347DBE;
+    background-image: linear-gradient(to right, #5BCEFA, #F5A9B8, #FFFFFF, #FFFFFF, #F5A9B8, #5BCEFA);
     border-color: #347DBE;
 }
 
