@@ -20,10 +20,12 @@ permalink: res_medicaltransition.html
 
 ## Hormone Therapy & Surgeries 
 
-Because hormone therapy and surgeries are discussed in other sections of this guide, it will not be discussed here. 
+Because hormone therapy and surgeries are discussed in other sections of this guide, it will not be discussed here. Please see those pages instead.
 - [Accessing Gender Affirming Care & Guidelines](https://kerrykins.github.io/transresourceslondonON/gac_guidelines.html)
 - [Hormone Replacement Therapy](https://kerrykins.github.io/transresourceslondonON/gac_hrt.html)
 - [Transition Related Surgeries](https://kerrykins.github.io/transresourceslondonON/gac_trs.html)
+
+{% include info.html content="Some surgeries are *not* covered by OHIP as they are considered elective or cosmetic surgeries (e.g., facial feminisation/masculisation surgery). See surgery pages for more information." %}
 
 ## Supportive Medical Care 
 
@@ -34,6 +36,8 @@ Supportive medical care includes procedures such as:
   - Training and techniques to modify pitch, resonance, and communication style to better align with one's gender identity
 - Fertility (sperm/egg storage)
   - Some treatments may affect fertility. Some will consider cryopreservation before starting treatments. 
+
+{% include info.html content="Note that many supportive medical care procedures are *not* covered by OHIP, such as fertility, speech therapy, or hair removal. If you have secondary private insurance, they may cover this partially or fully." %}
   
 ## Recommended Reading For Medical Transition 
 
