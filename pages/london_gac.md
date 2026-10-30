@@ -26,7 +26,7 @@ Below is a list of clinics/medical professionals that offer GAC in London, Ontar
 Provider Name   | Type of Provider                           | Services | Notes
 ------- | ------------------------------------- | -------- | -----------
 **Dr. AJ MacDonald** <br> 519-433-2996 | Primary (MD) |     
-[**Horizon Care Ontario**](https://horizon-care.ca/) <br> Virtual <br> Self-referral | Primary (MD)  | HRT <br> 1st Surgery Assess. <br> 2nd Surgery Assess. <br> Psychosocial Support | 
+[**Horizon Care Ontario**](https://horizon-care.ca/) <br> Virtual <br> Self-referral | Primary (MD)  | HRT <br> 1st Surgery Assess. <br> 2nd Surgery Assess. <br> Psychosocial Support | |
 [**Western University** <br> **Health & Wellness**](https://www.uwo.ca/health/index.html) <br> 519-661-3030 | Primary (MD) | HRT <br> 1st Surgery Assess. <br> 2nd Surgery Assess. <br> Post-Op Care <br> Psychosocial Support | UWO students only. 
 [**Gender Care @ LIHC**](https://lihc.on.ca/programs-services/gender-care/) <br> 519-660-0874 ext. 3  <br>  transhealth@lihc.on.ca | Primary (NP) | HRT <br> Puberty Suppression <br> 1st Surgery Assess. <br> 2nd Surgery Assess. <br> Post-Op Care <br> Psychosocial Support | 16+ only <br> Intake CLOSED 
 [**JHunter NP Services**](https://www.jhunternpservices.ca/) <br> *Virtual* <br> *Self-Referral* | Primary (NP) | Unknown | Unknown - call to confirm. 
@@ -43,7 +43,37 @@ Provider Name   | Type of Provider                           | Services | Notes
 
 <div class="datatable-end"></div>
 
-
+<table class="display">
+<colgroup>
+<col width="20%" />
+<col width="10%" />
+<col width="30%" />
+<col width="40%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Provider Name</th>
+<th>Type of Provider </th>
+<th>Services</th>
+<th>Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td markdown="span">**Dr. AJ MacDonald** <br> 519-433-2996</td>
+<td markdown="span">Primary (MD)</td>
+</tr>
+<tr>
+<td markdown="span">[**Horizon Care Ontario**](https://horizon-care.ca/) <br> Virtual <br> Self-referral </td>
+<td markdown="span">Primary (MD)
+<td markdown="span">HRT <br> 1st Surgery Assess. <br> 2nd Surgery Assess. <br> Psychosocial Support</td>
+</tr>
+<tr>
+<td markdown="span">**Dr. AJ MacDonald** <br> 519-433-2996</td>
+<td markdown="span">Primary (MD)</td>
+</tr>
+</tbody>
+</table>
 
 ### Private
 
