@@ -72,8 +72,8 @@ entries:
       url: /res_youth.html
       output: web, pdf
 
-    - title: Other Resource Collections (WIP)
-      url: /
+    - title: Other Resource Collections 
+      url: /res_others.html
       output: web, pdf
       
   - title: Medical Gender Affirming Care 
