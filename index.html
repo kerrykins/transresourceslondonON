@@ -135,16 +135,16 @@ toc: false
 
     </div>
 
-        <div class="col-xs-6 col-sm-4 col-md-4" data-groups='["special_layouts"]'>
+        <div class="col-xs-6 col-sm-4 col-md-4" data-groups='["organisations"]'>
 
              <div class="panel panel-default">
-               <div class="panel-heading">Special Layouts</div>
+               <div class="panel-heading">Organisations</div>
                <div class="panel-body">
-                  These pages highlight special layouts outside of the conventional page and TOC hierarchy.
+                  A list of trans-friendly organisations. 
                   <ul>
                 {% for page in site.pages %}
                 {% for tag in page.tags %}
-                {% if tag == "special_layouts" %}
+                {% if tag == "organisations" %}
                      <li><a href="{{page.url | remove: '/'}}">{{page.title}}</a></li>
                 {% endif %}
                 {% endfor %}
