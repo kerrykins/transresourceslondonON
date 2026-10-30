@@ -9,7 +9,7 @@ summary: Brief instructions to help you get started with using this guide.
 
 {% include tip.html content="This was written as part of a resource post for the Queer Nexus Discord server for Trans Awareness Month 2026 🏳️‍⚧️." %}
 
-{% include warning.html content="**Disclosure**: Resources listed in this document are not listed based on the quality. This guide's purpose is to help identify and list relevant resources. <br> <br> **Always do your own research.**" %}
+{% include warning.html content=" Resources listed in this document are not listed based on the quality of service. This guide's purpose is to help identify and list relevant resources. <br> <br> **Always do your own research.**" %}
 
 {% include warning.html content="I do not take any responsibility for the accuracy of the information presented in this guide. Efforts have been made to ensure the information is up to date, accurate, and well-researched. " %}
 

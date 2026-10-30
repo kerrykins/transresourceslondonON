@@ -84,11 +84,11 @@ entries:
       url: /mydoc_install_jekyll_on_windows.html
       output: web, pdf
       
-  - title: Accessing Medical Gender Affirming Care (WIP)
+  - title: Medical Gender Affirming Care 
     output: web, pdf
 
     folderitems:
-    - title: Gender Affirming Care Guidelines 
+    - title: Gender Affirming Care & Guidelines 
       url: /gac_guidelines.html
       output: web, pdf
 
