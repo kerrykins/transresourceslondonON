@@ -148,12 +148,8 @@ entries:
       url: /london_social.html
       output: web, pdf
 
-    - title: Food Support
-      url: 
-      output: web, pdf
-
-    - title: Housing
-      url: 
+    - title: Food & Housing
+      url: /london_foodhousing.html
       output: web, pdf
 
   - title: Tag archives
