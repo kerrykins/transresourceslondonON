@@ -1,8 +1,8 @@
 ---
-title: "Publishing pages"
-tagName: publishing
+title: "Guidelines pages"
+tagName: guidelines
 search: exclude
-permalink: tag_publishing.html
+permalink: tag_guidelines.html
 sidebar: mydoc_sidebar
 folder: tags
 ---

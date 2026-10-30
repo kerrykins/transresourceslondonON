@@ -88,8 +88,8 @@ entries:
     output: web, pdf
 
     folderitems:
-    - title: Gender Affirming Care Guidelines (WIP)
-      url: 
+    - title: Gender Affirming Care Guidelines 
+      url: /gac_guidelines.html
       output: web, pdf
 
     - title: Hormone Replacement Therapy (HRT) (WIP)
