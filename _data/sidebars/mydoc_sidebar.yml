@@ -92,8 +92,8 @@ entries:
       url: /gac_guidelines.html
       output: web, pdf
 
-    - title: Hormone Replacement Therapy (HRT) (WIP)
-      url: /mydoc_posts.html
+    - title: Hormone Replacement Therapy (HRT) 
+      url: /gac_hrt.html
       output: web, pdf
 
     - title: Transition Related Surgeries (TRS) (WIP)
