@@ -59,6 +59,10 @@ entries:
     - title: Beginning Your Transition
       url: /res_starting.html
       output: web, pdf
+      
+    - title: Self-Advocacy (WIP)
+      url: /res_selfadv
+      output: web, pdf
 
     - title: Medical Transition (HRT & Surgeries) 
       url: /res_medicaltransition.html
