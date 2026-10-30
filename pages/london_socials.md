@@ -30,8 +30,8 @@ permalink: london_social.html
 | **Social Run** <br> *by Frontrunners* | Social <br> Sports & Rec | Tuesday 5:30pm <br> Saturday 9:00am | London Bicycle Cafe | ✔ | 
 | **Trans Collective** 🏳️‍⚧️ <br> *by pflag London* | Social | 1st Wednesday <br> 6pm-8:30pm | <a href="#" data-toggle="tooltip" data-original-title="{{site.data.terms.lochidden}}">Location Hidden</a>  | ✔ | 
 | **Trans & Friends Social** 🏳️‍⚧ <br> *by Queer Nexus* | Social | Varying Dates & Time | Covent Garden Market | ✔ | 
-| **Trans\* London Social** 🏳️‍⚧️ <br> *by pflag London*| Social | 4th Wednesday <br> 6pm-8:30pm | <a href="#" data-toggle="tooltip" data-original-title="{{site.data.terms.lochidden}}">Location Hidden</a>]  | ✔ | 
-| **Trans & NB Munch** 🔞 🏳️‍⚧️ | Social | 2nd Saturday <br> 3:30pm-5:30pm | <a href="#" data-toggle="tooltip" data-original-title="{{site.data.terms.lochidden}}">Location Hidden</a> <br> *Approval Needed*[^fn2] | ✔ | 
+| **Trans\* London Social** 🏳️‍⚧️ <br> *by pflag London*| Social | 4th Wednesday <br> 6pm-8:30pm | <a href="#" data-toggle="tooltip" data-original-title="{{site.data.terms.lochidden}}">Location Hidden</a>  | ✔ | 
+| **Trans & NB Munch** 🔞 🏳️‍⚧️ | Social | 2nd Saturday <br> 3:30pm-5:30pm | <a href="#" data-toggle="tooltip" data-original-title="{{site.data.terms.lochidden}}">Location Hidden</a> <br> <a href="#" data-toggle="tooltip" data-original-title="Prior approval from the organisers required to be able to attend this event.">Approval Needed</a> | ✔ | 
 
 ## Trans-Friendly Social Venues
 
