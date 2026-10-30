@@ -11,9 +11,25 @@ permalink: gac_trs.html
 
 ## OHIP-Coverage
 
-OHIP covers select pre-approved surgeries. If you pay out of pocket before approval, the Ministry will not reimburse you. 
+OHIP covers select pre-approved surgeries: genital and chest. 
 
-### OHIP-Funded Surgeries
+To qualify, you must:
+- be assessed and recommended for surgery by either one or two healthcare providers (e.g. a qualified doctor, nurse practitioner, registered nurse, psychologist or registered social worker)
+- have a referral for surgery completed and submitted to the Ministry of Health and Long-Term Care by a physician or nurse practitioner; and
+- have the surgery approved by the Ministry of Health and Long-Term Care before the surgery takes place
+
+If you pay out of pocket before approval, the Ministry will not reimburse you. 
+
+Before 2016, the process for transition-related surgeries must be assessed *only* at CAMH in Toronto. After March 2016, qualified healthcare providers can assess patients for surgery. Qualified healthcare provider can be:
+- Physician (family doctor or specialist)
+- Nurse Practitioner (NP)
+- Registered Nurse (RP)
+- Psychologist 
+- Registered Social Worker (with a Masters degree)
+
+Note that **one** of the assessments for genital surgery approval must come from a physician or nurse practitioner. 
+
+## OHIP-Funded Surgeries
 
 - Vaginoplasty
   - Includes penectomy, orchidectomy, clitoroplasty, and labiaplasty
@@ -30,7 +46,7 @@ OHIP covers select pre-approved surgeries. If you pay out of pocket before appro
   - OHIP will only cover the mastectomy part of chest surgery. Any masculinisation must be paid by the patient and will vary from surgeon to surgeon.
 - Breast Augmentation (has strict criteria: must have completed 12 months of hormone therapy with no breast enlargement and remain at Tanner Stage 1)
 
-### What doesn't OHIP cover? 
+## What doesn't OHIP cover? 
 
 - Chest contouring/masculinisation
   - OHIP will only cover the mastectomy part of chest surgery. Any masculinisation must be paid by the patient and will vary from surgeon to surgeon.
@@ -47,7 +63,29 @@ OHIP covers select pre-approved surgeries. If you pay out of pocket before appro
 - Travel and accommodation costs related to obtaining surgery
 - Supplies related to post-surgery care
 
-## TRS Process 
+## Surgery Approval 
+
+The approval process for genital and chest surgery differs.
+
+### Genital Surgery
+
+To be approved for genital surgery, you’ll need:
+- two assessments recommending surgery (from a qualified doctor, nurse practitioner, registered nurse, psychologist or registered social worker)
+  - one of the assessments must be from a doctor or nurse practitioner
+- both assessments must confirm:
+  - you have a diagnosis of persistent gender dysphoria
+  - have completed 12 continuous months of hormone therapy (unless hormones are not recommended)
+  - you have lived 12 continuous months in the gender role you identify with (for genital surgery only)
+  
+### Chest Surgery  
+
+To be approved for chest surgery you’ll need:
+- one assessment recommending surgery from a qualified doctor or nurse practitioner
+  - the assessment must confirm that you:
+    - have a diagnosis of persistent gender dysphoria
+    - have completed 12 months of continuous hormone therapy with no breast enlargement (unless hormones are not recommended) if you’re seeking breast augmentation
+
+## The Process 
 
 {% include image.html file="trsprocess.jpg" url="https://www.rainbowhealthontario.ca/TransHealthGuide/resources-referralsadvocacy.html" alt="TRS Process" caption (Source: Rainbow Health Ontario)="TRS Planning and Referral Process" %}
 
@@ -64,3 +102,8 @@ OHIP covers select pre-approved surgeries. If you pay out of pocket before appro
 
 [**TransHealthcare List of Gender-Affirming Surgeons in Canada**](https://www.transhealthcare.org/canada/)
 > TransHealthcare compiled a list of gender-affirming surgeons practicing in Canada. The list can be filtered by procedures such as breast augmentation, FFS, FMS, hysterectomy, top surgery, etc.
+
+#### Sources 
+
+1. CAMH - [Transition-Related Surgery (TRS) FAQ](https://camh.ca/-/media/files/transrelatedsurgery-faq-en-pdf.pdf)
+2. Province of Ontario - [Gender Confirming Surgery](https://www.ontario.ca/page/gender-confirming-surgery)
