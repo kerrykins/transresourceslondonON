@@ -1,0 +1,163 @@
+---
+title: Getting started with the Gender-Affirming Resources Guide
+tags: 
+last_updated: October 29, 2026
+keywords: getting_started
+summary: "Brief overview to help you get started with using this guide."
+permalink: index.html
+toc: false
+---
+
+{% if site.output == "pdf" %}
+{{site.data.alerts.note}} The content on this page doesn't display well on PDF, but I included it anyway so you could see the problems this layout poses if you're including it in PDF.  {{site.data.alerts.end}}
+{% endif %}
+
+{% unless site.output == "pdf" %}
+<script src="js/jquery.shuffle.min.js"></script>
+<script src="js/jquery.ba-throttle-debounce.min.js"></script>
+{% endunless %}
+
+      <div class="filter-options">
+      <button class="btn btn-primary" data-group="all">All</button>
+      <button class="btn btn-primary" data-group="getting_started">Getting Started</button>
+      <button class="btn btn-primary" data-group="medical_care">Medical Care</button>
+      <button class="btn btn-primary" data-group="social">Social</button>
+      <button class="btn btn-primary" data-group="LondonON">London Specific</button>
+	  <button class="btn btn-primary" data-group="single_sourcing">Organisations</button>
+    </div>      
+
+<div id="grid" class="row">
+
+
+    <div class="col-xs-6 col-sm-4 col-md-4" data-groups='["getting_started"]'>
+
+               <div class="panel panel-default">
+               <div class="panel-heading">Getting Started</div>
+               <div class="panel-body">
+                  These are pages that introduce the reader to a specific trans-related topic. 
+                  <ul>
+                {% for page in site.pages %}
+                {% for tag in page.tags %}
+                {% if tag == "getting_started" %}
+                  <li><a href="{{page.url | remove: '/'}}">{{page.title}}</a></li>
+                {% endif %}
+                {% endfor %}
+                {% endfor %} 
+                  </ul>
+               </div>
+            </div>
+    
+    </div>
+   
+
+    <div class="col-xs-6 col-sm-4 col-md-4" data-groups='["medical_care"]'>
+
+        <div class="panel panel-default">
+            <div class="panel-heading">Medical Care</div>
+            <div class="panel-body">
+                This section lists pages discussing gender-affirming medical care.
+                <ul>
+                    {% for page in site.pages %}
+                    {% for tag in page.tags %}
+                    {% if tag == "medical_care" %}
+                    <li><a href="{{page.url | remove: '/'}}">{{page.title}}</a></li>
+                    {% endif %}
+                    {% endfor %}
+                    {% endfor %}
+                </ul>
+            </div>
+        </div>
+        
+    </div>
+
+
+
+    <div class="col-xs-6 col-sm-4 col-md-4" data-groups='["Social"]'>
+
+                <div class="panel panel-default">
+               <div class="panel-heading">Social</div>
+               <div class="panel-body">
+                  These pages discuss trans-friendly social life in London, ON.  
+                  <ul>
+                {% for page in site.pages %}
+                {% for tag in page.tags %}
+                {% if tag == "social" %}
+                  <li><a href="{{page.url | remove: '/'}}">{{page.title}}</a></li>
+                {% endif %}
+                {% endfor %}
+                {% endfor %}
+                  </ul>
+               </div>
+            </div>
+
+    </div>
+
+    <div class="col-xs-6 col-sm-4 col-md-4" data-groups='["LondonON"]'>
+         
+      <div class="panel panel-default">
+               <div class="panel-heading">London Specific</div>
+               <div class="panel-body">These pages discuss resources specific to the London, ON community.
+               <ul>
+                {% for page in site.pages %}
+                {% for tag in page.tags %}
+                {% if tag == "LondonON" %}
+                  <li><a href="{{page.url | remove: '/'}}">{{page.title}}</a></li>
+                {% endif %}
+                {% endfor %}
+                {% endfor %} 
+               </ul>
+            </div>
+         </div>
+
+    </div>
+
+       <div class="col-xs-6 col-sm-4 col-md-4" data-groups='["publishing"]'>
+
+           <div class="panel panel-default">
+               <div class="panel-heading">Publishing</div>
+               <div class="panel-body">When you're building, publishing, and deploying your Jekyll site, you might find these topics helpful.
+                   <ul>
+                {% for page in site.pages %}
+                {% for tag in page.tags %}
+                {% if tag == "publishing" %}
+                  <li><a href="{{page.url | remove: '/'}}">{{page.title}}</a></li>
+                {% endif %}
+                {% endfor %}
+                {% endfor %}
+                   </ul>
+               </div>
+            </div>
+
+    </div>
+
+        <div class="col-xs-6 col-sm-4 col-md-4" data-groups='["special_layouts"]'>
+
+             <div class="panel panel-default">
+               <div class="panel-heading">Special Layouts</div>
+               <div class="panel-body">
+                  These pages highlight special layouts outside of the conventional page and TOC hierarchy.
+                  <ul>
+                {% for page in site.pages %}
+                {% for tag in page.tags %}
+                {% if tag == "special_layouts" %}
+                     <li><a href="{{page.url | remove: '/'}}">{{page.title}}</a></li>
+                {% endif %}
+                {% endfor %}
+                {% endfor %} 
+                  </ul>
+               </div>
+            </div>
+
+    </div>
+          <!-- sizer -->
+      <div class="col-xs-6 col-sm-4 col-md-1 shuffle_sizer"></div>          
+
+
+    </div><!-- /#grid -->
+
+{% unless site.output == "pdf" %}
+{% include initialize_shuffle.html %}
+{% endunless %}
+
+{{site.data.alerts.note}} This was mostly an experiment to see if I could break away from the hierarchical TOC and provide a different way of arranging the content. However, this layout is somewhat problematic because it doesn't allow you to browse other navigation options on the side while viewing a topic.{{site.data.alerts.end}}
+
