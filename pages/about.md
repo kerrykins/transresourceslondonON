@@ -71,7 +71,7 @@ folder: mydoc
                         </div>
                         <div id="collapseFive" class="panel-collapse collapse">
                             <div class="panel-body">
-                                Please, please, please with a dozen cherries on top send them to me! I'm just one enby and it is certain I would've missed something. Please send me a message on Discord and I'll make sure to add it on the guide!
+                                Please, please, please with a dozen cherries on top send them to me! I'm just one enby and it is certain I would've missed something. Please send me a [message on Discord](https://discord.com/users/292823530637361154) and I'll make sure to add it on the guide!
                             </div>
                         </div>
                     </div>
@@ -84,7 +84,7 @@ folder: mydoc
                         </div>
                         <div id="collapseSix" class="panel-collapse collapse">
                             <div class="panel-body" markdown="span">
-                                A lot of the listed resources came from my own 'digging' around for my own transition. Others are from my personal experience as a Londoner (for London-specific resources). <br> <br> Special mention goes to the author of the [*Gender Affirming Resources Ontario* spreadsheet](https://docs.google.com/spreadsheets/d/111o63Tvt20heohe9KtRW_AZPBKOz4kpZ1pb7r0CJpvU/edit?gid=96267087#gid=96267087). Some of the London-area (or virtual) resources were takien from that spreadsheet. To keep some table structures somewhat uniform, you may see some similarities in how I categorised services. 
+                                A lot of the listed resources came from my own 'digging' around for my own transition. Others are from my personal experience as a Londoner (for London-specific resources). <br> <br> Special mention goes to the author of the [*Gender Affirming Resources Ontario* spreadsheet](https://docs.google.com/spreadsheets/d/111o63Tvt20heohe9KtRW_AZPBKOz4kpZ1pb7r0CJpvU/edit?gid=96267087#gid=96267087). Some of the London-area (or virtual) resources were taken from that spreadsheet. To keep some table structures somewhat uniform, you may see some similarities in how I categorised services. 
                             </div>
                         </div>
                     </div>
@@ -98,6 +98,19 @@ folder: mydoc
                         <div id="collapseSeven" class="panel-collapse collapse">
                             <div class="panel-body">
                                 My name is Kerry (they/them), and I'm a transfemme enby living in London, Ontario. 
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /.panel -->
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <h4 class="panel-title">
+                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseSeven">Can I share this with others?</a>
+                            </h4>
+                        </div>
+                        <div id="collapseSeven" class="panel-collapse collapse">
+                            <div class="panel-body">
+                                Of course! I just ask that you do not copy the whole thing - format and everything - and say it's your work.  
                             </div>
                         </div>
                     </div>
