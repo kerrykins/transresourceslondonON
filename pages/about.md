@@ -105,17 +105,18 @@ folder: mydoc
                     <div class="panel panel-default">
                         <div class="panel-heading">
                             <h4 class="panel-title">
-                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseSeven">Can I share this with others?</a>
+                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseNine">Can I share this with others?</a>
                             </h4>
                         </div>
-                        <div id="collapseSeven" class="panel-collapse collapse">
+                        <div id="collapseNine" class="panel-collapse collapse">
                             <div class="panel-body">
-                                Of course! I just ask that you do not copy the whole thing - format and everything - and say it's your work.  
+                                Of course! I just ask that you don't copy it word for word, format for format, and pass it as your own work!
                             </div>
                         </div>
                     </div>
-                    <!-- /.panel -->                    
+                    <!-- /.panel -->
 </div>
 <!-- /.panel-group -->
+
 
 {% include links.html %}
