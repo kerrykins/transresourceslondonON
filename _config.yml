@@ -47,7 +47,7 @@ exclude:
 # feedback_text: "Need help?"
 # if you uncomment the previous line, it changes the Feedback text
 
- feedback_link: "http://helpy.io/"
+# feedback_link: "http://helpy.io/"
 # if you uncomment the previous line, it changes where the feedback link points to
 
 highlighter: rouge
@@ -105,11 +105,9 @@ defaults:
 sidebars:
 - home_sidebar
 - mydoc_sidebar
-- product1_sidebar
-- product2_sidebar
 - other
 
-description: "Intended as a documentation theme based on Jekyll for technical writers documenting software and other technical products, this theme has all the elements you would need to handle multiple products with both multi-level sidebar navigation, tags, and other documentation features."
+description: ""
 # the description is used in the feed.xml file
 
 # needed for sitemap.xml file only
