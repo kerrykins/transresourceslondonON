@@ -44,7 +44,7 @@ folder: mydoc
                             </h4>
                         </div>
                         <div id="collapseThree" class="panel-collapse collapse noCrossRef">
-                            <div class="panel-body" markdown="1">
+                            <div class="panel-body" markdown="span">
                                You can [message me on Discord](https://discord.com/users/292823530637361154). Please let me know you're DM'ing me about the guide or I might not accept your DM. 
                             </div>
                         </div>
@@ -83,7 +83,7 @@ folder: mydoc
                             </h4>
                         </div>
                         <div id="collapseSix" class="panel-collapse collapse">
-                            <div class="panel-body" markdown="1">
+                            <div class="panel-body" markdown="span">
                                 A lot of the listed resources came from my own 'digging' around for my own transition. Others are from my personal experience as a Londoner (for London-specific resources). <br> <br> Special mention goes to the author of the [*Gender Affirming Resources Ontario* spreadsheet](https://docs.google.com/spreadsheets/d/111o63Tvt20heohe9KtRW_AZPBKOz4kpZ1pb7r0CJpvU/edit?gid=96267087#gid=96267087). Some of the London-area (or virtual) resources were takien from that spreadsheet. To keep some table structures somewhat uniform, you may see some similarities in how I categorised services. 
                             </div>
                         </div>
