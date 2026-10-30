@@ -64,16 +64,12 @@ entries:
       url: /res_medicaltransition.html
       output: web, pdf
 
-    - title: For Parents (WIP)
-      url: /
+    - title: For Parents and Family Members
+      url: /res_parents.html
       output: web, pdf
 
-    - title: For Youth (WIP)
-      url: /
-      output: web, pdf
-
-    - title: For Family Members (WIP)
-      url: /
+    - title: For Youth 
+      url: /res_youth.html
       output: web, pdf
 
     - title: Other Resource Collections (WIP)
