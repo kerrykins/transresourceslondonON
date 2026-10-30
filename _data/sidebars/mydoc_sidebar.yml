@@ -37,7 +37,7 @@ entries:
     folderitems:
 
     - title: London Region 
-      url: 
+      url: /org_london.html
       output: web, pdf
 
     - title: Ontario-wide
