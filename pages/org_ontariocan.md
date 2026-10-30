@@ -5,7 +5,7 @@ keywords:
 last_updated: October 29, 2026
 summary: "A list of local trans-friendly organisations that operate Ontario or Canada wide."
 sidebar: mydoc_sidebar
-permalink: org_london.html
+permalink: org_ontariocan.html
 
 ---
 
