@@ -19,7 +19,7 @@ OHIP covers select pre-approved surgeries. If you pay out of pocket before appro
   - Includes penectomy, orchidectomy, clitoroplasty, and labiaplasty
 - Phalloplasty
   - Includes vaginectomy, urethroplasty, glansplasty, and penile & testicular implants
-- Metoidioplasty*
+- Metoidioplasty
   - Includes vaginectomy and urethroplasty 
 - Clitoral release with vaginectomy
 - Testicular implants with scrotoplasty
@@ -33,7 +33,7 @@ OHIP covers select pre-approved surgeries. If you pay out of pocket before appro
 ### What doesn't OHIP cover? 
 
 - Chest contouring/masculinisation
-  - - OHIP will only cover the mastectomy part of chest surgery. Any masculinisation must be paid by the patient and will vary from surgeon to surgeon.
+  - OHIP will only cover the mastectomy part of chest surgery. Any masculinisation must be paid by the patient and will vary from surgeon to surgeon.
 - Breast augmentation for people with breast growth past Tanner Stage I after 12 months of hormone therapy
 - Facial masculinisation
 - Facial feminisation
@@ -60,7 +60,7 @@ OHIP covers select pre-approved surgeries. If you pay out of pocket before appro
 | Women's College Hospital | [TRS Information](https://www.womenscollegehospital.ca/care-programs/surgery/transition-related-surgery/) |  
 | CAMH | [Transition-Related Surgery (TRS) FAQ](https://camh.ca/-/media/files/transrelatedsurgery-faq-en-pdf.pdf) |
   
-### Gender-Affirming Surgeons in Canada
+## Gender-Affirming Surgeons in Canada
 
 [**TransHealthcare List of Gender-Affirming Surgeons in Canada**](https://www.transhealthcare.org/canada/)
 > TransHealthcare compiled a list of gender-affirming surgeons practicing in Canada. The list can be filtered by procedures such as breast augmentation, FFS, FMS, hysterectomy, top surgery, etc.

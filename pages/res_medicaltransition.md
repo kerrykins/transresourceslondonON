@@ -1,6 +1,6 @@
 ---
 title: About Medical Transition (HRT & TRS)
-tags: [resources, medical_care]
+tags: [resources, medical_care, getting_started]
 keywords: 
 last_updated: October 29, 2026
 summary: "Resources related to medical transition (HRT & TRS)."
@@ -10,6 +10,32 @@ permalink: res_medicaltransition.html
 ---
 
 {% include important.html content="Always verify the information especially when it pertains to your health and wellbeing. Always consult a medical professional." %}
+
+## Overview 
+
+**Medical transition usually includes three components:** 
+- Gender-affirming hormone therapy (GAHT or HRT)
+- Gender-affirming surgeries (known as TRS by the Ministry of Health)
+- Supportive medical care 
+
+## Hormone Therapy & Surgeries 
+
+Because hormone therapy and surgeries are discussed in other sections of this guide, it will not be discussed here. 
+- [Accessing Gender Affirming Care & Guidelines](https://kerrykins.github.io/transresourceslondonON/gac_guidelines.html)
+- [Hormone Replacement Therapy](https://kerrykins.github.io/transresourceslondonON/gac_hrt.html)
+- [Transition Related Surgeries](https://kerrykins.github.io/transresourceslondonON/gac_trs.html)
+
+## Supportive Medical Care 
+
+Supportive medical care includes procedures such as:
+- Hair removal
+  - Electrolysis or laser hair removal 
+- Speech therapy 
+  - Training and techniques to modify pitch, resonance, and communication style to better align with one's gender identity
+- Fertility (sperm/egg storage)
+  - Some treatments may affect fertility. Some will consider cryopreservation before starting treatments. 
+  
+## Recommended Reading For Medical Transition 
 
 <table>
 <colgroup>
@@ -25,7 +51,7 @@ permalink: res_medicaltransition.html
 <tbody>
 <tr>
 <td markdown="span">Rainbow Health Ontario (RHO)</td>
-<td markdown="span">- [Trans Primary Care Guide](https://www.rainbowhealthontario.ca/TransHealthGuide/) <br> - [Guidelines for Gender-affirming Primary Care with Trans and Non-Binary Patients](https://www.rainbowhealthontario.ca/product/4th-edition-sherbournes-guidelines-for-gender-affirming-primary-care-with-trans-and-non-binary-patients/) <br> - [Intersex Health](https://www.rainbowhealthontario.ca/wp-content/uploads/2026/04/HIF-Intersex-Health.pdf) <br> - [Publications](https://www.rainbowhealthontario.ca/2slgbtq-health/rho-publications-resources/) <br> - [Reproductive Options for Trans People](https://www.rainbowhealthontario.ca/wp-content/uploads/2024/04/Reproductive-Options-for-Trans-People-1.pdf) <br> - [Parenting Options for 2SLGBTQ People](https://www.rainbowhealthontario.ca/wp-content/uploads/2024/04/Parenting-Options-for-2SLGBTQ-People.pdf)
+<td markdown="span">- [Trans Primary Care Guide](https://www.rainbowhealthontario.ca/TransHealthGuide/) <br> - [Guidelines for Gender-affirming Primary Care with Trans and Non-Binary Patients](https://www.rainbowhealthontario.ca/product/4th-edition-sherbournes-guidelines-for-gender-affirming-primary-care-with-trans-and-non-binary-patients/) <br> - [Intersex Health](https://www.rainbowhealthontario.ca/wp-content/uploads/2026/04/HIF-Intersex-Health.pdf) <br> - [Publications](https://www.rainbowhealthontario.ca/2slgbtq-health/rho-publications-resources/) 
 </td>
 </tr>
 <tr>
@@ -40,3 +66,9 @@ permalink: res_medicaltransition.html
 </tr>
 </tbody>
 </table>
+
+## Other Considerations 
+
+Rainbow Health Ontario put together two articles related to reproductive and parenting options for trans and queer folx. 
+- [Reproductive Options for Trans People](https://www.rainbowhealthontario.ca/wp-content/uploads/2024/04/Reproductive-Options-for-Trans-People-1.pdf) 
+- [Parenting Options for 2SLGBTQ People](https://www.rainbowhealthontario.ca/wp-content/uploads/2024/04/Parenting-Options-for-2SLGBTQ-People.pdf)
