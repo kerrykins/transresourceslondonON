@@ -87,7 +87,7 @@ To be approved for chest surgery you’ll need:
 
 ## The Process 
 
-{% include image.html file="trsprocess.jpg" url="https://www.rainbowhealthontario.ca/TransHealthGuide/resources-referralsadvocacy.html" alt="TRS Process" caption (Source: Rainbow Health Ontario)="TRS Planning and Referral Process" %}
+{% include image.html file="trsprocess.jpg" url="https://www.rainbowhealthontario.ca/TransHealthGuide/resources-referralsadvocacy.html" alt="TRS Process (Source: Rainbow Health Ontario)" caption="TRS Planning and Referral Process" %}
 
 ## TRS Information Sheets
 
