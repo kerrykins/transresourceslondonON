@@ -41,7 +41,7 @@ entries:
       output: web, pdf
 
     - title: Ontario and Canada wide
-      url: r/org_ontariocan.html
+      url: /org_ontariocan.html
       output: web, pdf
       
     - title: Social Media and Online Groups
