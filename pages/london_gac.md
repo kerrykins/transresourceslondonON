@@ -62,6 +62,19 @@ Provider Name   | Type of Provider                           | Services | Notes
 <tr>
 <td markdown="span">**Dr. AJ MacDonald** <br> 519-433-2996</td>
 <td markdown="span">Primary (MD)</td>
+<td markdown="span"></td>
+<td markdown="span"></td>
+</tr>
+<tr>
+<td markdown="span">[**Horizon Care Ontario**](https://horizon-care.ca/) <br> Virtual <br> Self-referral </td>
+<td markdown="span">Primary (MD)
+<td markdown="span">HRT <br> 1st Surgery Assess. <br> 2nd Surgery Assess. <br> Psychosocial Support</td>
+<td markdown="span"></td>
+</tr>
+<tr>
+<td markdown="span">[**Western University** <br> **Health & Wellness**](https://www.uwo.ca/health/index.html) <br> 519-661-3030 </td>
+<td markdown="span">Primary (MD)
+<td markdown="span">HRT <br> 1st Surgery Assess. <br> 2nd Surgery Assess. <br> Psychosocial Support</td>
 </tr>
 <tr>
 <td markdown="span">[**Horizon Care Ontario**](https://horizon-care.ca/) <br> Virtual <br> Self-referral </td>
@@ -69,12 +82,19 @@ Provider Name   | Type of Provider                           | Services | Notes
 <td markdown="span">HRT <br> 1st Surgery Assess. <br> 2nd Surgery Assess. <br> Psychosocial Support</td>
 </tr>
 <tr>
-<td markdown="span">**Dr. AJ MacDonald** <br> 519-433-2996</td>
-<td markdown="span">Primary (MD)</td>
+<td markdown="span">[**Horizon Care Ontario**](https://horizon-care.ca/) <br> Virtual <br> Self-referral </td>
+<td markdown="span">Primary (MD)
+<td markdown="span">HRT <br> 1st Surgery Assess. <br> 2nd Surgery Assess. <br> Psychosocial Support</td>
+</tr>
+<tr>
+<td markdown="span">[**Horizon Care Ontario**](https://horizon-care.ca/) <br> Virtual <br> Self-referral </td>
+<td markdown="span">Primary (MD)
+<td markdown="span">HRT <br> 1st Surgery Assess. <br> 2nd Surgery Assess. <br> Psychosocial Support</td>
 </tr>
 </tbody>
 </table>
 
+[**Western University** <br> **Health & Wellness**](https://www.uwo.ca/health/index.html) <br> 519-661-3030 | Primary (MD) | HRT <br> 1st Surgery Assess. <br> 2nd Surgery Assess. <br> Post-Op Care <br> Psychosocial Support | UWO students only. 
 ### Private
 
 <div class="datatable-begin"></div>
