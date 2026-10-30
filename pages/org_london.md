@@ -13,12 +13,12 @@ permalink: org_london.html
 
 | Organisation  | Description |
 | :---------------- | :----------- |
-| [London InterCommunity Health Centre](https://lihc.on.ca/resources/gender-affirming-and-lgbtq2s-sexual-health-supports/) | LIHC operates a gender care program that provides HRT management, <br> primary care, and transition-related surgical support, <br> especially for those that face sytemic barriers in the health care system. |
-| [pflag Canada (London)](https://www.pflaglondon.ca/) | pflag is the primary local support network for trans individuals and <br> their families. pflag London offers support and social groups for trans <br> youth, the general trans population, parents of trans youth, and partners <br> of trans folx. |
+| [London InterCommunity Health Centre](https://lihc.on.ca/resources/gender-affirming-and-lgbtq2s-sexual-health-supports/) | LIHC operates a gender care program that provides HRT management, primary care, and transition-related surgical support, especially for those that face sytemic barriers in the health care system. |
+| [pflag Canada (London)](https://www.pflaglondon.ca/) | pflag is the primary local support network for trans individuals and their families. pflag London offers support and social groups for trans youth, the general trans population, parents of trans youth, and partners of trans folx. |
 | [Pride London](https://pridelondon.ca/) | Pride London is the organiser for the city's annual Pride parade in July. |
-| [Queer Intersections (QX)](https://www.qxcanada.org/) | QX is the intersectional queer community centre for London, ON. <br> QX hosts regular events and offers a safe, third-space. |
+| [Queer Intersections (QX)](https://www.qxcanada.org/) | QX is the intersectional queer community centre for London, ON. QX hosts regular events and offers a safe, third-space. |
 | [Queer Nexus](https://www.facebook.com/share/1DySC93LQn/)  |  |
-| [Wortley Pride](https://wortleypride.com/)  | Wortley Pride operates out of Wortley Village and organises year-round <br> family- and queer-friendly events that are a safe and low-barrier <br> environment. |
+| [Wortley Pride](https://wortleypride.com/)  | Wortley Pride operates out of Wortley Village and organises year-round family- and queer-friendly events that are a safe and low-barrier environment. |
 
 #### Western University 
 
