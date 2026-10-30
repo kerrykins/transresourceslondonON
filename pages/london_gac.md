@@ -44,7 +44,7 @@ Provider Name   | Type of Provider                           | Services | Notes
 <div class="datatable-end"></div>
 
 <div class="datatable-start"></div>
-<table>
+<table class="display">
 <colgroup>
 <col width="20%" />
 <col width="10%" />
@@ -76,21 +76,25 @@ Provider Name   | Type of Provider                           | Services | Notes
 <td markdown="span">[**Western University** <br> **Health & Wellness**](https://www.uwo.ca/health/index.html) <br> 519-661-3030 </td>
 <td markdown="span">Primary (MD)
 <td markdown="span">HRT <br> 1st Surgery Assess. <br> 2nd Surgery Assess. <br> Psychosocial Support</td>
+<td markdown="span"></td>
 </tr>
 <tr>
 <td markdown="span">[**Horizon Care Ontario**](https://horizon-care.ca/) <br> Virtual <br> Self-referral </td>
 <td markdown="span">Primary (MD)
 <td markdown="span">HRT <br> 1st Surgery Assess. <br> 2nd Surgery Assess. <br> Psychosocial Support</td>
+<td markdown="span"></td>
 </tr>
 <tr>
 <td markdown="span">[**Horizon Care Ontario**](https://horizon-care.ca/) <br> Virtual <br> Self-referral </td>
 <td markdown="span">Primary (MD)
 <td markdown="span">HRT <br> 1st Surgery Assess. <br> 2nd Surgery Assess. <br> Psychosocial Support</td>
+<td markdown="span"></td>
 </tr>
 <tr>
 <td markdown="span">[**Horizon Care Ontario**](https://horizon-care.ca/) <br> Virtual <br> Self-referral </td>
 <td markdown="span">Primary (MD)
 <td markdown="span">HRT <br> 1st Surgery Assess. <br> 2nd Surgery Assess. <br> Psychosocial Support</td>
+<td markdown="span"></td>
 </tr>
 </tbody>
 </table>
