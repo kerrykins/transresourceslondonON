@@ -3,19 +3,11 @@ title: Transition-Related Surgeries (TRS)
 tags: [medical_care, guidelines]
 keywords: 
 last_updated: October 29, 2026
-summary: "A brief introduction to accessing transition-related surgeries in Ontario, Canada"
+summary: "A brief introduction to transition-related surgeries in Ontario, Canada"
 sidebar: mydoc_sidebar
 permalink: gac_trs.html
 
 ---
-
-## Accessing TRS
-
-Unlike HRT's informed consent model, OHIP-funded surgeries require provincial approval. Different surgeries require different formal surgical assessments (e.g., chest surgeries require one assessment whereas bottom surgeries require two). 
-
-After your provider submits the funding application, the Ministry of Health muskert approve it before any surgery can take place. 
-
-See [TRS Frequently Asked Questions](https://www.rainbowhealthontario.ca/wp-content/uploads/2025/08/RHO-GAS-FAQ.pdf) for information about assessments, referrals, and OHIP coverage.
 
 ## TRS Information Sheets
 

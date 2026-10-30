@@ -3,7 +3,7 @@ title: Gender Affirming Care & Guidelines
 tags: [medical_care, guidelines, getting_started]
 keywords: 
 last_updated: October 29, 2026
-summary: "Introduction to gender-affirming medical care (HRT and TRS) and a list of existing guidelines for administering HRT and accessing transition-related surgeries."
+summary: "Introduction to accessing gender-affirming medical care (HRT and TRS) in Ontario, Canada."
 sidebar: mydoc_sidebar
 permalink: gac_guidelines.html
 ---
@@ -17,6 +17,16 @@ permalink: gac_guidelines.html
 Accessing medical gender affirming health care (GAC) usually begins with your primary care provider (PCP). 
 
 If your PCP feels managing GAC is beyond their clinical competency, **they have a professional obligation to provide a timely and effective referral to a qualified medical professional.** 
+
+## Accessing Hormone Replacement Therapy (HRT)
+
+## Accessing Transition-Related Surgeries (TRS)
+
+Unlike HRT's informed consent model, OHIP-funded surgeries require provincial approval. Different surgeries require different formal surgical assessments (e.g., chest surgeries require one assessment whereas bottom surgeries require two). 
+
+After your provider submits the funding application, the Ministry of Health muskert approve it before any surgery can take place. 
+
+See [TRS Frequently Asked Questions](https://www.rainbowhealthontario.ca/wp-content/uploads/2025/08/RHO-GAS-FAQ.pdf) for information about assessments, referrals, and OHIP coverage.
 
 ## GAC Guidelines
 

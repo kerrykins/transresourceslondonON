@@ -84,7 +84,7 @@ entries:
     output: web, pdf
 
     folderitems:
-    - title: Gender Affirming Care & Guidelines 
+    - title: Accessing Gender Affirming Care & Guidelines 
       url: /gac_guidelines.html
       output: web, pdf
 
@@ -92,8 +92,8 @@ entries:
       url: /gac_hrt.html
       output: web, pdf
 
-    - title: Transition Related Surgeries (TRS) (WIP)
-      url: /mydoc_lists.html
+    - title: Transition Related Surgeries (TRS) 
+      url: /gac_trs.html
       output: web, pdf
 
     - title: Gender Affirming Surgeons in Canada (WIP)
