@@ -20,7 +20,7 @@ To qualify, you must:
 
 If you pay out of pocket before approval, the Ministry will not reimburse you. 
 
-Before 2016, the process for transition-related surgeries must be assessed *only* at CAMH in Toronto. After March 2016, qualified healthcare providers can assess patients for surgery. Qualified healthcare provider can be:
+Before 2016, the process for transition-related surgeries must be assessed *only* at CAMH in Toronto. **This is no longer the case.** After March 2016, qualified healthcare providers can assess patients for surgery. A qualified healthcare provider can be:
 - Physician (family doctor or specialist)
 - Nurse Practitioner (NP)
 - Registered Nurse (RP)
