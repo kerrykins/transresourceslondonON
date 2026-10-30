@@ -1,7 +1,7 @@
 ---
 title: "Social Life pages"
 search: exclude
-tagName: mobile
+tagName: social
 permalink: tag_social.html
 sidebar: mydoc_sidebar
 folder: tags
