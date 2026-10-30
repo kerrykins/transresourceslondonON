@@ -3,7 +3,7 @@ title: Hormone Replacement Therapy (HRT)
 tags: [medical_care, guidelines]
 keywords: 
 last_updated: October 29, 2026
-summary: "A brief introduction to hormone replacement therapy (HRT)"
+summary: "A brief introduction to accessing hormone replacement therapy (HRT) in Ontario, Canada"
 sidebar: mydoc_sidebar
 permalink: gac_hrt.html
 datatable: true
