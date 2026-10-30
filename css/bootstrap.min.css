@@ -5689,22 +5689,13 @@ a.label:hover {
     background-color: #c9302c
 }
 
-.label-secondary {
-    background-color: #5C2C23
+.label-safe {
+	background-color: #5353C9
 }
 
-.label-secondary[href]:focus,
-.label-secondary[href]:hover {
-    background-color: #c9302c
-}
-
-.label-third {
-    background-color: #DE882F
-}
-
-.label-third[href]:focus,
-.label-third[href]:hover {
-    background-color: #c9302c
+.label-safe[href]:focus,
+.label-safe[href]:hover {
+	background-color: #539EC9
 }
 
 .badge {
