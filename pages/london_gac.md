@@ -13,7 +13,7 @@ datatable: true
 
 Below is a list of clinics/medical professionals that offer GAC in London, Ontario. This includes virtual and private pay options.
 
-{% include important.html content="Check with the office as intake may be closed." %}
+{% include important.html content="Check with the office as intake may be closed and/or the provider may no longer be providing gender care." %}
 
 {% include note.html content="**Abbreviations and Definitions** <br> <br> - **MD**: Doctor holding a Doctor of Medicine (MD). Family doctors and specialists hold a MD. <br> - **Primary (MD)**: Family doctor, usually licensed by College of Family Physicians of Canada (CCFP). <br> - **OB/GYN**: Specialist in obstetrics and gynaecology. <br> - **Endocrinologist**: Specialist in dealing with the endocrine system, its diseases, and hormones. <br> - **Psychiatrist**: Specialist in the diagnosis, treatment, and prevention of mental conditions. <br> - **NP**: Nurse Practtioner. Advanced registered nurse trained to assess, order & interpret diagnostic tests, diagnose disease, prescribe medications, and formulate treatment plans. <br> - **Assess.**: Abbreviation for 'assessment'. " %}
 
