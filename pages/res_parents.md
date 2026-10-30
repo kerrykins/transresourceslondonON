@@ -15,6 +15,6 @@ permalink: res_parents.html
 - [Supporting Your Child's Gender Identity and Expression](https://www.rainbowhealthontario.ca/wp-content/uploads/2022/03/Supporting-Your-Childs-Gender-Identity-and-Expression-1.pdf)
 - [Advocating For Your Gender Independent Child](https://www.rainbowhealthontario.ca/wp-content/uploads/2022/03/Advocating-For-Your-Gender-Independent-Child-May-2022.pdf)
 
-## Fmaily Members 
+## Family Members 
 
 - [Families in TRANSition](https://rootsinwellness.ca/wp-content/uploads/2018/04/families-in-transition.pdf)
