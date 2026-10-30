@@ -59,52 +59,52 @@ entries:
   - title: Resources
     output: web, pdf
     folderitems:
-
-    - title: Beginning Your Transition
+ 
+    - title: Beginning Your Transition (WIP)
       url: /mydoc_about_ruby_gems_etc.html
       output: web, pdf
 
-    - title: Medical Transition (HRT & Surgeries)
+    - title: Medical Transition (HRT & Surgeries) (WIP)
       url: /mydoc_install_jekyll_on_mac.html
       output: web, pdf
 
-    - title: For Parents
+    - title: For Parents (WIP)
       url: /mydoc_install_jekyll_on_windows.html
       output: web, pdf
 
-    - title: For Youth
+    - title: For Youth (WIP)
       url: /mydoc_install_jekyll_on_windows.html
       output: web, pdf
 
-    - title: For Family Members
+    - title: For Family Members (WIP)
       url: /mydoc_install_jekyll_on_windows.html
       output: web, pdf
 
-    - title: Other Resource Collections
+    - title: Other Resource Collections (WIP)
       url: /mydoc_install_jekyll_on_windows.html
       output: web, pdf
       
-  - title: Accessing Medical Gender Affirming Care
+  - title: Accessing Medical Gender Affirming Care (WIP)
     output: web, pdf
 
     folderitems:
-    - title: Gender Affirming Care Guidelines
+    - title: Gender Affirming Care Guidelines (WIP)
       url: 
       output: web, pdf
 
-    - title: Hormone Replacement Therapy (HRT)
+    - title: Hormone Replacement Therapy (HRT) (WIP)
       url: /mydoc_posts.html
       output: web, pdf
 
-    - title: Transition Related Surgeries (TRS)
+    - title: Transition Related Surgeries (TRS) (WIP)
       url: /mydoc_lists.html
       output: web, pdf
 
-    - title: Gender Affirming Surgeons in Canada
+    - title: Gender Affirming Surgeons in Canada (WIP)
       url: /mydoc_conditional_logic.html
       output: web, pdf
 
-  - title: London-Area Resources
+  - title: London Specific Resources
     output: web, pdf
 
     folderitems:
@@ -116,11 +116,11 @@ entries:
       url: /london_pharmacy.html
       output: web, pdf
 
-    - title: Injection Supplies
+    - title: Injection Supplies (WIP)
       url: 
       output: web, pdf
 
-    - title: Allied Healthcare
+    - title: Allied Healthcare (WIP)
       url: 
       output: web, pdf
 
