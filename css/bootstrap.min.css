@@ -5653,48 +5653,48 @@ a.label:hover {
     background-color: #286090
 }
 
-.label-HRT {
+.label-success {
     background-color: #5cb85c
 }
 
-.label-HRT[href]:focus,
-.label-HRT[href]:hover {
+.label-success[href]:focus,
+.label-success[href]:hover {
     background-color: #449d44
 }
 
-.label-1st Surgery Assess. {
+.label-info {
     background-color: #5bc0de
 }
 
-.label-1st Surgery Assess[href]:focus,
+.label-info[href]:focus,
 .label-info[href]:hover {
     background-color: #31b0d5
 }
 
-.label-Psychosocial Support{
+.label-warning {
     background-color: #f0ad4e
 }
 
-.label-Psychosocial Support[href]:focus,
-.label-Psychosocial Support[href]:hover {
+.label-warning[href]:focus,
+.label-warning[href]:hover {
     background-color: #ec971f
 }
 
-.label-OBGYN {
+.label-danger {
     background-color: #d9534f
 }
 
-.label-OBGYN[href]:focus,
-.label-OBGYN[href]:hover {
+.label-danger[href]:focus,
+.label-danger[href]:hover {
     background-color: #c9302c
 }
 
-.label-Post-OP Care {
+.label-HRT {
     background-color: #d9534f
 }
 
-.label-Post-OP Care[href]:focus,
-.label-Post-OP Care[href]:hover {
+.label-HRT[href]:focus,
+.label-HRT[href]:hover {
     background-color: #c9302c
 }
 
