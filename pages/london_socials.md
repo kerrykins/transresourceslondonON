@@ -22,7 +22,7 @@ permalink: london_social.html
 | **Karaoke for Homosexuals** <br> *by Honey Dip* | Social <br> Music & Dance | 1st Wednesday <br> 6pm-12am | Honey Dip | ✔ | 
 | **London Lesbian Film Festival** | | | | | | |
 | **Monthly Hike** <br> *by QX*| Social <br> Sports & Rec |  | Varies | ✔ | |
-| **Parents & Caregivers Group** <br> *by pflag London*| Support | | *Location Hidden*[^fn1]  | ✔ |  
+| **Parents & Caregivers Group** <br> *by pflag London*| Support | | <a href="#" data-toggle="tooltip" data-original-title="{{site.data.terms.lochidden}}">Location Hidden</a>  | ✔ |  
 | **Queeraoke** | Social <br> Music & Dance | Monday <br> 6pm-9pm | London Brewing Co-Op | ✔ | 
 | **Queerdos** <br> *by pflag London* | Social | | *Location Hidden*[^fn1] | ✔ | 
 | **Queer Crafters** <br> *by Queer Nexus* | Social <br> Arts & Crafts | 1st Monday <br> 12pm-2pm | Tea Haus | ✔ | 
