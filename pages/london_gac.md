@@ -26,7 +26,7 @@ Below is a list of clinics/medical professionals that offer GAC in London, Ontar
 Provider Name   | Type of Provider                           | Services | Notes
 ------- | ------------------------------------- | -------- | -----------
 **Dr. AJ MacDonald** <br> 519-433-2996 | Primary (MD) |     
-[**Horizon Care Ontario**](https://horizon-care.ca/) <br> Virtual <br> Self-referral | Primary (MD)  | HRT <br> 1st Surgery Assess. <br> 2nd Surgery Assess. <br> Psychosocial Support | |
+[**Horizon Care Ontario**](https://horizon-care.ca/) <br> Virtual <br> Self-referral | Primary (MD)  | HRT <br> 1st Surgery Assess. <br> 2nd Surgery Assess. <br> Psychosocial Support | 
 [**Western University** <br> **Health & Wellness**](https://www.uwo.ca/health/index.html) <br> 519-661-3030 | Primary (MD) | HRT <br> 1st Surgery Assess. <br> 2nd Surgery Assess. <br> Post-Op Care <br> Psychosocial Support | UWO students only. 
 [**Gender Care @ LIHC**](https://lihc.on.ca/programs-services/gender-care/) <br> 519-660-0874 ext. 3  <br>  transhealth@lihc.on.ca | Primary (NP) | HRT <br> Puberty Suppression <br> 1st Surgery Assess. <br> 2nd Surgery Assess. <br> Post-Op Care <br> Psychosocial Support | 16+ only <br> Intake CLOSED 
 [**JHunter NP Services**](https://www.jhunternpservices.ca/) <br> *Virtual* <br> *Self-Referral* | Primary (NP) | Unknown | Unknown - call to confirm. 
