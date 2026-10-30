@@ -38,7 +38,7 @@ a[data-toggle="tooltip"] {
 }
 
 .navbar-inverse {
-    background-color: linear-gradient(to right, #5BCEFA, #F5A9B8, #FFFFFF, #FFFFFF, #F5A9B8, #5BCEFA);
+    background-image: linear-gradient(to right, #5BCEFA, #F5A9B8, #FFFFFF, #FFFFFF, #F5A9B8, #5BCEFA);
     border-color: #015CAE;
 }
 .navbar-inverse .navbar-nav>li>a, .navbar-inverse .navbar-brand {
