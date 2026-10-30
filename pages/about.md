@@ -114,8 +114,7 @@ folder: mydoc
                             </div>
                         </div>
                     </div>
-                    <!-- /.panel -->
-                    
+                    <!-- /.panel -->                    
 </div>
 <!-- /.panel-group -->
 
