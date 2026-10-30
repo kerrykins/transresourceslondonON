@@ -70,7 +70,7 @@ folder: mydoc
                             </h4>
                         </div>
                         <div id="collapseFive" class="panel-collapse collapse">
-                            <div class="panel-body">
+                            <div class="panel-body" markdown="span">
                                 Please, please, please with a dozen cherries on top send them to me! I'm just one enby and it is certain I would've missed something. Please send me a [message on Discord](https://discord.com/users/292823530637361154) and I'll make sure to add it on the guide!
                             </div>
                         </div>
