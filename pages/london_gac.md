@@ -32,7 +32,7 @@ Provider Name   | Type of Provider                           | Services | Notes
 [**JHunter NP Services**](https://www.jhunternpservices.ca/) <br> *Virtual* <br> *Self-Referral* | Primary (NP) | Unknown | Unknown - call to confirm. 
 **Dr. Emily Brennan** <br> 519-850-3234 | Endocrinologist | HRT |
 **Dr. Julia Creider** <br> 519-601-8621 | Endocrinologist | HRT |  
-**Dr. Ranjit Singarayer** <br> 226-680-0802 | Endocrinologist | HRT |  
+**Dr. Ranjit Singarayer** <br> 226-680-0802 | Endocrinologist <br> <span class="label label-success">Success</span> | HRT |  
 **Dr. Stanislaus Van Uum** <br> 519-646-6170 | Endocrinologist | HRT |  
 [**Gender Pathways Service**](https://www.lhsc.on.ca/gender-pathways-service) <br> gps@lhsc.on.ca | Endocrinologist | HRT <br> Puberty Suppression <br> Psychosocial Support | 17yo or younger only 
 **Dr. Debbie Penava** | OB/GYN | OB/GYN |  
