@@ -32,7 +32,7 @@ folder: mydoc
                         </div>
                         <div id="collapseTwo" class="panel-collapse collapse noCrossRef">
                             <div class="panel-body">
-                                I'll try my best. <br> <br> Life can get in the way unfortunately. 
+                                I'll try my best for as long as I continue to live in the city. Life can get in the way unfortunately. 
                             </div>
                         </div>
                     </div>
