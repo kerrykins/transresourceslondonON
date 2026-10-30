@@ -47,18 +47,23 @@ Provider Name   | Type of Provider                           | Services | Notes
 
 ### Private
 
-| Name of Service | Provider | Services | Cost |
-| :------- | :------- | :------ | :------- | 
-| [**Foria Clinic**](https://www.foriaclinic.com/) <br> *Virtual*  <br> *Self-Referral* | Primary (MD) <br> Primary (NP) | HRT <br> 1st Surgery Assess. <br> 2nd Surgery Assess. | Initial $299 <br> Hormone Start $199 <br> Patient Transfer $199 <br> Follow Up $99 <br> Surgery Assess. & Referral $199 <br> Counselling $150 <br> Voice Training $145 | 
-| [**Acceptance Clinic**](https://www.acceptanceclinic.ca/virtual-gender-affirming-care-nurse-practitioners) <br> *Virtual* <br> *Self-Referral* | Primary (NP) | HRT <br> 1st Surgery Assess. <br> 2nd Surgery Assess. <br> Psychosocial Support | $150-$360/hr |
-| [**Care & Family Health**](https://www.careand.ca/) <br> *Virtual* <br> *Self-Referral* | Primary (NP) | HRT <br> 1st Surgery Assess. <br> 2nd Surgery Assess. | $450 + HST per year, or <br> $100 per visit |
-| [**Michelle Hermans**](https://www.thrivetherapyservices.ca/gender-affirming-care) <br> *Virtual* <br> *Self-Referral* | Primary (NP) | HRT <br> Puberty Suppression <br> 1st Surgery Assess. <br> 2nd Surgery Assess. | |
-| **Amelie Zonato** <br> *Virtual* <br> *Self-Referral* | C.Psych | 2nd Surgery Assses. | $230 per hour <br> Sliding scale available |
-| **Jake Farr** <br> *Virtual* <br> *Self-Referral* | Social Worker | 2nd Surgery Assses. | |
-| **Kerry-Lin McGuire** <br> *Virtual* <br> *Self-Referral* | Social Worker | 2nd Surgery Assses. | |
-| [**Megan Blair**](https://blairccs.com/) <br> *Virtual* <br> *Self-Referral* | Social Worker | 2nd Surgery Assess. | $400 for 2nd Surgery Assess. | 
-| [**Rune Bland**](https://www.rainbowhealthontario.ca/service-provider-directory/rune-bland-bsw-msw-rsw/) <br> *Virtual* <br> *Self-Referral* | Social Worker | 2nd Surgery Assess. | $130 per hour |
-| [**Your Story Counselling Services**](https://www.yourstorycounselling.com/) <br> *Virtual* <br> *Self-Referral* | Social Worker | 2nd Surgery Assess. | $140-190 per hour |
+<div class="datatable-begin"></div>
+
+Provider Name | Type of Provider | Services | Cost |
+------- | ------------------------------------- | -------- | -----------
+[**Foria Clinic**](https://www.foriaclinic.com/) <br> *Virtual*  <br> *Self-Referral* | Primary (MD) <br> Primary (NP) | HRT <br> 1st Surgery Assess. <br> 2nd Surgery Assess. | Initial $299 <br> Hormone Start $199 <br> Patient Transfer $199 <br> Follow Up $99 <br> Surgery Assess. & Referral $199 <br> Counselling $150 <br> Voice Training $145 
+[**Acceptance Clinic**](https://www.acceptanceclinic.ca/virtual-gender-affirming-care-nurse-practitioners) <br> *Virtual* <br> *Self-Referral* | Primary (NP) | HRT <br> 1st Surgery Assess. <br> 2nd Surgery Assess. <br> Psychosocial Support | $150-$360/hr 
+[**Care & Family Health**](https://www.careand.ca/) <br> *Virtual* <br> *Self-Referral* | Primary (NP) | HRT <br> 1st Surgery Assess. <br> 2nd Surgery Assess. | $450 + HST per year, or <br> $100 per visit 
+[**Michelle Hermans**](https://www.thrivetherapyservices.ca/gender-affirming-care) <br> *Virtual* <br> *Self-Referral* | Primary (NP) | HRT <br> Puberty Suppression <br> 1st Surgery Assess. <br> 2nd Surgery Assess. | 
+**Amelie Zonato** <br> *Virtual* <br> *Self-Referral* | C.Psych | 2nd Surgery Assses. | $230 per hour <br> Sliding scale available 
+**Jake Farr** <br> *Virtual* <br> *Self-Referral* | Social Worker | 2nd Surgery Assses. | 
+**Kerry-Lin McGuire** <br> *Virtual* <br> *Self-Referral* | Social Worker | 2nd Surgery Assses. | 
+[**Megan Blair**](https://blairccs.com/) <br> *Virtual* <br> *Self-Referral* | Social Worker | 2nd Surgery Assess. | $400 for 2nd Surgery Assess. 
+[**Rune Bland**](https://www.rainbowhealthontario.ca/service-provider-directory/rune-bland-bsw-msw-rsw/) <br> *Virtual* <br> *Self-Referral* | Social Worker | 2nd Surgery Assess. | $130 per hour 
+[**Your Story Counselling Services**](https://www.yourstorycounselling.com/) <br> *Virtual* <br> *Self-Referral* | Social Worker | 2nd Surgery Assess. | $140-190 per hour 
+
+<div class="datatable-end"></div>
+
 
 
 
