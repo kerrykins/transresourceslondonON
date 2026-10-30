@@ -5,6 +5,7 @@ tags:
 sidebar: mydoc_sidebar
 permalink: index.html
 summary: Brief instructions to help you get started with using this guide.
+toc: false
 
 ---
 

@@ -20,7 +20,7 @@ Quick Guides for Hormone Therapy
 
 | Type | Source | Website | PDF | 
 | :----- | :----- | :----- | :----- | 
-| Feminising HRT |  | [Website](https://www.rainbowhealthontario.ca/TransHealthGuide/gp-femht.html) | [PDF](https://www.rainbowhealthontario.ca/TransHealthGuide/pdf/QRG_femHT_2021.pdf) | 
+| Feminising HRT | Rainbow Health Ontario | [Website](https://www.rainbowhealthontario.ca/TransHealthGuide/gp-femht.html) | [PDF](https://www.rainbowhealthontario.ca/TransHealthGuide/pdf/QRG_femHT_2021.pdf) | 
 | | Transfeminine Science | [Website](https://transfemscience.org/articles/transfem-intro/) | |
 Masculinising HRT | Rainbow Health Ontario | [Website](https://www.rainbowhealthontario.ca/TransHealthGuide/gp-mascht.html) | [PDF](https://www.rainbowhealthontario.ca/TransHealthGuide/pdf/QRG_mascHT_rev2021.pdf) |
 
