@@ -49,7 +49,7 @@ OHIP covers select pre-approved surgeries. If you pay out of pocket before appro
 
 ## TRS Process 
 
-{% include image.html file="trsprocess.jpg" url="https://www.rainbowhealthontario.ca/TransHealthGuide/resources-referralsadvocacy.html" alt="TRS Process" caption="TRS Planning and Referral Process" %}
+{% include image.html file="trsprocess.jpg" url="https://www.rainbowhealthontario.ca/TransHealthGuide/resources-referralsadvocacy.html" alt="TRS Process" caption (Source: Rainbow Health Ontario)="TRS Planning and Referral Process" %}
 
 ## TRS Information Sheets
 
