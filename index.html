@@ -9,6 +9,10 @@ sidebar: mydoc_sidebar
 toc: false
 ---
 
+{{site.data.alerts.warning}} Resources listed in this document are not listed based on the quality of service. This guide's purpose is to help identify and list relevant resources. <br> <br> **Always do your own research.** <br> <br> I do not take any responsibility for the accuracy of the information presented in this guide. Efforts have been made to ensure the information is up to date, accurate, and well-researched.{{site.data.alerts.end}}
+
+{{site.data.alerts.tip}} This was written as part of a resource post for the Queer Nexus Discord server for Trans Awareness Month 2026 🏳️‍⚧️.{{site.data.alerts.end}}
+
 {% if site.output == "pdf" %}
 {{site.data.alerts.note}} The content on this page doesn't display well on PDF, but I included it anyway so you could see the problems this layout poses if you're including it in PDF.  {{site.data.alerts.end}}
 {% endif %}
@@ -112,15 +116,15 @@ toc: false
 
     </div>
 
-       <div class="col-xs-6 col-sm-4 col-md-4" data-groups='["publishing"]'>
+       <div class="col-xs-6 col-sm-4 col-md-4" data-groups='["resources"]'>
 
            <div class="panel panel-default">
-               <div class="panel-heading">Publishing</div>
-               <div class="panel-body">When you're building, publishing, and deploying your Jekyll site, you might find these topics helpful.
+               <div class="panel-heading">Resources</div>
+               <div class="panel-body">A collection of pages linking to helpful resources for the trans community. 
                    <ul>
                 {% for page in site.pages %}
                 {% for tag in page.tags %}
-                {% if tag == "publishing" %}
+                {% if tag == "resources" %}
                   <li><a href="{{page.url | remove: '/'}}">{{page.title}}</a></li>
                 {% endif %}
                 {% endfor %}
@@ -160,5 +164,5 @@ toc: false
 {% include initialize_shuffle.html %}
 {% endunless %}
 
-{{site.data.alerts.note}} This was mostly an experiment to see if I could break away from the hierarchical TOC and provide a different way of arranging the content. However, this layout is somewhat problematic because it doesn't allow you to browse other navigation options on the side while viewing a topic.{{site.data.alerts.end}}
+
 
