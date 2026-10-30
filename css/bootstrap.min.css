@@ -5698,6 +5698,15 @@ a.label:hover {
     background-color: #c9302c
 }
 
+.label-paper {
+    background-color: #DE882F
+}
+
+.label-paper[href]:focus,
+.label-paper[href]:hover {
+    background-color: #c9302c
+}
+
 .badge {
     display: inline-block;
     min-width: 10px;
