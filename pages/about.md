@@ -1,6 +1,6 @@
 ---
 title: About the Guide & Author
-tags: [resources]
+tags: []
 keywords: 
 last_updated: October 29, 2026
 summary: 

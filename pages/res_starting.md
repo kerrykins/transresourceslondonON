@@ -1,6 +1,6 @@
 ---
 title: Beginning Your Transition
-tags: [resources]
+tags: [resources, getting_started]
 keywords: 
 last_updated: October 29, 2026
 summary: "Resources related to beginning your transition journey."
