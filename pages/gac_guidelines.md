@@ -30,7 +30,7 @@ Unlike HRT's informed consent model, OHIP-funded surgeries require provincial ap
 
 After your provider submits the funding application, the Ministry of Health muskert approve it before any surgery can take place. 
 
-See [TRS Frequently Asked Questions](https://www.rainbowhealthontario.ca/wp-content/uploads/2025/08/RHO-GAS-FAQ.pdf) for information about assessments, referrals, and OHIP coverage.
+See this [guide's page on TRS](/gac_trs.html) and Rainbow Health Ontario's [TRS Frequently Asked Questions](https://www.rainbowhealthontario.ca/wp-content/uploads/2025/08/RHO-GAS-FAQ.pdf) for information about assessments, referrals, and OHIP coverage.
 
 ## GAC Guidelines
 
@@ -39,6 +39,9 @@ See [TRS Frequently Asked Questions](https://www.rainbowhealthontario.ca/wp-cont
 - [**Quality Standards for Gender-Affirming Care for Gender-Diverse People**](https://www.ontariohealth.ca/content/dam/ontariohealth/documents/filter-list/qs/qs-gender-affirming-care-adults-en.pdf) by Ontario Health
 
 ### Guidelines In Other Healthcare Jurisdictions
+
+Different health systems can approach gender-affirming care differently (although there are not huge differences given adhereing to WPATH standards). You may find it helpful to see how other health sytsems approach gender care. You may even find a regimen or insight that you can bring to your provider to discuss. 
+
 - [Trans Care BC](https://www.phsa.ca/transcarebc/Documents/HealthProf/Primary-Care-Toolkit.pdf)
 - [Fenway Health](https://www.lgbthealtheducation.org/publication/transgender-sod/)
 - [University of California, San Francisco](https://transhealth.ucsf.edu/trans?page=guidelines-home)
