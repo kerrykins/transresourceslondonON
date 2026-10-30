@@ -1,5 +1,5 @@
 ---
-title: Gender Affirming Care & Guidelines
+title: Accessing Gender Affirming Care & Guidelines
 tags: [medical_care, guidelines, getting_started]
 keywords: 
 last_updated: October 29, 2026
