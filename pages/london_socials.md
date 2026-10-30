@@ -19,12 +19,13 @@ permalink: london_social.html
 | **Aeolian Pride Choruses** | Social <br> Music & Dance | <a href="#" data-toggle="tooltip" data-original-title="Additional dates and times for performance dates and dress rehearsals.">Sunday 7pm-9:30pm</a> <br> (Rehearsals)| | <a href="#" data-toggle="tooltip" data-original-title="$60 per season">✘</a> |
 | **Board Game Social** <br> *by QX* | Social | | Crouch Library | ✔ | 
 | **Book Club** <br> *by QX* | Social | | Central Library | ✔ | |
+| **Jr and Sr Youth Groups** <br> *by pflag* | Social | 2nd Wednesday <br> 6pm-8:30pm | <a href="#" data-toggle="tooltip" data-original-title="{{site.data.terms.lochidden}}">Location Hidden</a> | ✔ |
 | **Karaoke for Homosexuals** <br> *by Honey Dip* | Social <br> Music & Dance | 1st Wednesday <br> 6pm-12am | Honey Dip | ✔ | 
 | **London Lesbian Film Festival** | | | | | | |
 | **Monthly Hike** <br> *by QX*| Social <br> Sports & Rec |  | Varies | ✔ | |
-| **Parents & Caregivers Group** <br> *by pflag London*| Support | | <a href="#" data-toggle="tooltip" data-original-title="{{site.data.terms.lochidden}}">Location Hidden</a>  | ✔ |  
+| **Parents & Caregivers Group** <br> *by pflag London*| Support | 2nd Wednesday <br> 6pm-8:30pm | <a href="#" data-toggle="tooltip" data-original-title="{{site.data.terms.lochidden}}">Location Hidden</a>  | ✔ |  
 | **Queeraoke** | Social <br> Music & Dance | Monday <br> 6pm-9pm | London Brewing Co-Op | ✔ | 
-| **Queerdos** <br> *by pflag London* | Social | | <a href="#" data-toggle="tooltip" data-original-title="{{site.data.terms.lochidden}}">Location Hidden</a> | ✔ | 
+| **Queerdos** <br> *by pflag London* | Social | 3rd Wednesday <br> 6pm-8:30pm | <a href="#" data-toggle="tooltip" data-original-title="{{site.data.terms.lochidden}}">Location Hidden</a> | ✔ | 
 | **Queer Crafters** <br> *by Queer Nexus* | Social <br> Arts & Crafts | 1st Monday <br> 12pm-2pm | Tea Haus | ✔ | 
 | **Queer Sewcial** <br> *by QX*| Social <br> Arts & Crafts | | Central Library | ✔ | 
 | **Social Run** <br> *by Frontrunners* | Social <br> Sports & Rec | Tuesday 5:30pm <br> Saturday 9:00am | London Bicycle Cafe | ✔ | 
