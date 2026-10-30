@@ -172,6 +172,14 @@ entries:
           url: /tag_social.html
           output: web
           
+        - title: Getting Started Pages
+          url: /tag_getting_started.html
+          output: web
+          
+        - title: Social Life Pages
+          url: /tag_social.html
+          output: web
+          
           
 
  # Copyright 2021 Google LLC
