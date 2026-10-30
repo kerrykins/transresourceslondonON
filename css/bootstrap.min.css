@@ -5653,6 +5653,15 @@ a.label:hover {
     background-color: #286090
 }
 
+.label-safe {
+	background-color: #5353C9
+}
+
+.label-safe[href]:focus,
+.label-safe[href]:hover {
+	background-color: #539EC9
+}
+
 .label-success {
     background-color: #5cb85c
 }
@@ -5687,15 +5696,6 @@ a.label:hover {
 .label-danger[href]:focus,
 .label-danger[href]:hover {
     background-color: #c9302c
-}
-
-.label-safe {
-	background-color: #5353C9
-}
-
-.label-safe[href]:focus,
-.label-safe[href]:hover {
-	background-color: #539EC9
 }
 
 .badge {
