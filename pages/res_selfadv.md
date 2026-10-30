@@ -13,6 +13,6 @@ permalink: res_selfadv.html
 
 To be written in a much nicer way 8). Don't mind me. 
 
-https://www.transhub.org.au/trans-vitality-toolkit/scripts/
-https://autisticadvocacy.org/wp-content/uploads/2024/06/ER-Gender-Affirming-Care-Part-6.pdf
-https://www.artsurgical.net/blog/how-to-advocate-for-yourself-in-transgender-healthcare
+- https://www.transhub.org.au/trans-vitality-toolkit/scripts/
+- https://autisticadvocacy.org/wp-content/uploads/2024/06/ER-Gender-Affirming-Care-Part-6.pdf
+- https://www.artsurgical.net/blog/how-to-advocate-for-yourself-in-transgender-healthcare
