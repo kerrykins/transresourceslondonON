@@ -43,64 +43,6 @@ Provider Name   | Type of Provider                           | Services | Notes
 
 <div class="datatable-end"></div>
 
-<div class="datatable-start"></div>
-<table class="display">
-<colgroup>
-<col width="20%" />
-<col width="10%" />
-<col width="30%" />
-<col width="40%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th>Provider Name</th>
-<th>Type of Provider </th>
-<th>Services</th>
-<th>Notes</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td markdown="span">**Dr. AJ MacDonald** <br> 519-433-2996</td>
-<td markdown="span">Primary (MD)</td>
-<td markdown="span"></td>
-<td markdown="span"></td>
-</tr>
-<tr>
-<td markdown="span">[**Horizon Care Ontario**](https://horizon-care.ca/) <br> Virtual <br> Self-referral </td>
-<td markdown="span">Primary (MD)
-<td markdown="span">HRT <br> 1st Surgery Assess. <br> 2nd Surgery Assess. <br> Psychosocial Support</td>
-<td markdown="span"></td>
-</tr>
-<tr>
-<td markdown="span">[**Western University** <br> **Health & Wellness**](https://www.uwo.ca/health/index.html) <br> 519-661-3030 </td>
-<td markdown="span">Primary (MD)
-<td markdown="span">HRT <br> 1st Surgery Assess. <br> 2nd Surgery Assess. <br> Psychosocial Support</td>
-<td markdown="span"></td>
-</tr>
-<tr>
-<td markdown="span">[**Horizon Care Ontario**](https://horizon-care.ca/) <br> Virtual <br> Self-referral </td>
-<td markdown="span">Primary (MD)
-<td markdown="span">HRT <br> 1st Surgery Assess. <br> 2nd Surgery Assess. <br> Psychosocial Support</td>
-<td markdown="span"></td>
-</tr>
-<tr>
-<td markdown="span">[**Horizon Care Ontario**](https://horizon-care.ca/) <br> Virtual <br> Self-referral </td>
-<td markdown="span">Primary (MD)
-<td markdown="span">HRT <br> 1st Surgery Assess. <br> 2nd Surgery Assess. <br> Psychosocial Support</td>
-<td markdown="span"></td>
-</tr>
-<tr>
-<td markdown="span">[**Horizon Care Ontario**](https://horizon-care.ca/) <br> Virtual <br> Self-referral </td>
-<td markdown="span">Primary (MD)
-<td markdown="span">HRT <br> 1st Surgery Assess. <br> 2nd Surgery Assess. <br> Psychosocial Support</td>
-<td markdown="span"></td>
-</tr>
-</tbody>
-</table>
-<div class="datatable-end"></div>
-
-[**Western University** <br> **Health & Wellness**](https://www.uwo.ca/health/index.html) <br> 519-661-3030 | Primary (MD) | HRT <br> 1st Surgery Assess. <br> 2nd Surgery Assess. <br> Post-Op Care <br> Psychosocial Support | UWO students only. 
 ### Private
 
 <div class="datatable-begin"></div>
