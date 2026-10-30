@@ -40,14 +40,10 @@ entries:
       url: /org_london.html
       output: web, pdf
 
-    - title: Ontario-wide
-      url: 
+    - title: Ontario and Canada wide
+      url: r/org_ontariocan.html
       output: web, pdf
       
-    - title: Canada-wide
-      url: 
-      output: web, pdf
-
     - title: Social Media and Online Groups
       url: /org_socialmedia.html
       output: web, pdf
