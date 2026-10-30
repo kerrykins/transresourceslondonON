@@ -43,8 +43,8 @@ Provider Name   | Type of Provider                           | Services | Notes
 
 <div class="datatable-end"></div>
 
-<div class="datatable-begin"></div>
-<table class="display">
+<div class="datatable-end"></div>
+<table>
 <colgroup>
 <col width="20%" />
 <col width="10%" />
