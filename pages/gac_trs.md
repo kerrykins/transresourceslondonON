@@ -103,7 +103,7 @@ To be approved for chest surgery you’ll need:
 [**TransHealthcare List of Gender-Affirming Surgeons in Canada**](https://www.transhealthcare.org/canada/)
 > TransHealthcare compiled a list of gender-affirming surgeons practicing in Canada. The list can be filtered by procedures such as breast augmentation, FFS, FMS, hysterectomy, top surgery, etc.
 
-#### Sources 
+## Sources 
 
 1. CAMH - [Transition-Related Surgery (TRS) FAQ](https://camh.ca/-/media/files/transrelatedsurgery-faq-en-pdf.pdf)
 2. Province of Ontario - [Gender Confirming Surgery](https://www.ontario.ca/page/gender-confirming-surgery)
