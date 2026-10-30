@@ -37,47 +37,47 @@ entries:
     folderitems:
 
     - title: London Region 
-      url: /mydoc_release_notes_60.html
+      url: 
       output: web, pdf
 
     - title: Ontario-wide
-      url: /mydoc_release_notes_50.html
+      url: 
       output: web, pdf
       
     - title: Canada-wide
-      url: /mydoc_release_notes_50.html
+      url: 
       output: web, pdf
 
     - title: Social Media and Online Groups
-      url: /mydoc_release_notes_50.html
+      url: 
       output: web, pdf
 
   - title: Resources
     output: web, pdf
     folderitems:
  
-    - title: Beginning Your Transition (WIP)
-      url: /mydoc_about_ruby_gems_etc.html
+    - title: Beginning Your Transition
+      url: /res_starting.html
       output: web, pdf
 
-    - title: Medical Transition (HRT & Surgeries) (WIP)
-      url: /mydoc_install_jekyll_on_mac.html
+    - title: Medical Transition (HRT & Surgeries) 
+      url: /res_medicaltransition.html
       output: web, pdf
 
     - title: For Parents (WIP)
-      url: /mydoc_install_jekyll_on_windows.html
+      url: /
       output: web, pdf
 
     - title: For Youth (WIP)
-      url: /mydoc_install_jekyll_on_windows.html
+      url: /
       output: web, pdf
 
     - title: For Family Members (WIP)
-      url: /mydoc_install_jekyll_on_windows.html
+      url: /
       output: web, pdf
 
     - title: Other Resource Collections (WIP)
-      url: /mydoc_install_jekyll_on_windows.html
+      url: /
       output: web, pdf
       
   - title: Medical Gender Affirming Care 
@@ -94,10 +94,6 @@ entries:
 
     - title: Transition Related Surgeries (TRS) 
       url: /gac_trs.html
-      output: web, pdf
-
-    - title: Gender Affirming Surgeons in Canada (WIP)
-      url: /mydoc_conditional_logic.html
       output: web, pdf
 
   - title: London Specific Resources
@@ -172,8 +168,8 @@ entries:
           url: /tag_getting_started.html
           output: web
           
-        - title: Social Life Pages
-          url: /tag_social.html
+        - title: Resource Pages
+          url: /tag_resources.html
           output: web
           
           

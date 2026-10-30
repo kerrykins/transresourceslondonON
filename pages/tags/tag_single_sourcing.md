@@ -1,8 +1,8 @@
 ---
-title: "Single sourcing pages"
-tagName: single_sourcing
+title: "Resource pages"
+tagName: resources
 search: exclude
-permalink: tag_single_sourcing.html
+permalink: tag_resources.html
 sidebar: mydoc_sidebar
 folder: tags
 ---
