@@ -20,7 +20,9 @@ If your PCP feels managing GAC is beyond their clinical competency, **they have 
 
 ## Accessing Hormone Replacement Therapy (HRT)
 
-TBA
+In Ontario, prescrbing hormone repalcement therapy (HRT) operates n an informed consent model. A prescriber does not need a psychological evaluation or a diagnosis of gender dysphoria to begin the process. 
+
+A willing physician (family doctors or specialists) or a nurse practitioner can prescribe hormones once they make sure you fully understand the  medical effects, risks, and timelines. Once again, if your PCP cannot prescribe HRT, they must refer you to a specialist (like an endocrinologist) or an affirming clinic/clinician that uses informed consent. 
 
 ## Accessing Transition-Related Surgeries (TRS)
 
