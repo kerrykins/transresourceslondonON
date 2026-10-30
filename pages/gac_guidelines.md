@@ -20,6 +20,8 @@ If your PCP feels managing GAC is beyond their clinical competency, **they have 
 
 ## Accessing Hormone Replacement Therapy (HRT)
 
+TBA
+
 ## Accessing Transition-Related Surgeries (TRS)
 
 Unlike HRT's informed consent model, OHIP-funded surgeries require provincial approval. Different surgeries require different formal surgical assessments (e.g., chest surgeries require one assessment whereas bottom surgeries require two). 
