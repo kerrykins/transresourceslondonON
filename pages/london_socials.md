@@ -40,6 +40,7 @@ datatable: true
 
 
 <div class="datatable-begin"></div>
+
 Event Name | Type | Date & Time | Location | Free? 
 **Aeolian Pride Choruses** | <span class="label label-default">Social</span> <br> <span class="label label-success">Music & Dance</span> | <a href="#" data-toggle="tooltip" data-original-title="Additional dates and times for performance dates and dress rehearsals.">Sunday 7pm-9:30pm</a> <br> (Rehearsals)| | <a href="#" data-toggle="tooltip" data-original-title="$60 per season">✘</a> 
 **Board Game Social** <br> *by QX* | <span class="label label-default">Social</span> | | Crouch Library | ✔ 
