@@ -1,6 +1,6 @@
 ---
 title: Self Medicating HRT (DIY)
-tags: [medical_care, guidelines]
+tags: [medical_care]
 keywords: 
 last_updated: October 31, 2026
 summary: "Resources and harm reduction related to self-medicating HRT."
@@ -33,7 +33,7 @@ The [Queer Health DIY Roadmap](https://www.queerhealth.info/projects/diyhrt) in 
 2. [**Queer Health DIY Roadmap**](https://www.queerhealth.info/projects/diyhrt) - UK based
 3. [**Trans Patient Union**](https://transpatientunion.org/en/resource/diy-hrt/) - Quebec based
 4. [**r/TransDIY wiki**](https://www.reddit.com/r/TransDIY/wiki/index/)
-5. [Estradiol Pharmacokinetics Playground](https://estrannai.se/)
+5. [**Estradiol Pharmacokinetics Playground**](https://estrannai.se/)
 
 ## Bloodwork in Canada 
 
@@ -48,7 +48,7 @@ Make sure you are aware of the appropriate gender reference ranges so that you c
 ### Private Bloodwork Services 
 
 1. [Blood Tests Canada](https://bloodtestscanada.com/) 
-2. [Maple[(https://www.getmaple.ca/features/lab-work/)
+2. [Maple](https://www.getmaple.ca/features/lab-work/)
 3. [Dialogue](https://www.dialogue.co/en/)
 
 ## Risks 
