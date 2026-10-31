@@ -34,7 +34,6 @@ Provider Name   | Type of Provider                           | Services | Notes
 **Dr. Julia Creider** <br> 519-601-8621 | Endocrinologist | <span class="label label-success">HRT</span> |  
 **Dr. Ranjit Singarayer** <br> 226-680-0802 | Endocrinologist | <span class="label label-success">HRT</span> |  
 **Dr. Stanislaus Van Uum** <br> 519-646-6170 | Endocrinologist | <span class="label label-success">HRT</span> |
-**Dr. Ranjit Singarayer** <br> 226-680-0802 | Endocrinologist | <span class="label label-success">HRT</span> |  
 [**Gender Pathways Service**](https://www.lhsc.on.ca/gender-pathways-service) <br> gps@lhsc.on.ca | Endocrinologist | <span class="label label-success">HRT</span> <br> <span class="label label-danger">Puberty Suppression</span> <br> <span class="label label-default">Psychosocial Support</span> | 17yo or younger only 
 **Dr. Debbie Penava** | OB/GYN | <span class="label label-third">OB/GYN</span> |  
 **Dr. Laura Sovran** | OB/GYN | <span class="label label-third">OB/GYN</span> | 
