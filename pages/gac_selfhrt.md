@@ -19,7 +19,13 @@ Waiting lists, living in remote regions, medical gatekeeping, hostile healthcare
 
 I acknowledge that DIYing HRT has a place in the trans community. Thus, the purpose of this page is to compile a list of resources so that those accessing HRT on their own can do it more safely. It will include information for transfeminine, transmasculine, and non-binary people. 
 
-## Important Resources 
+It is pertiment, especially when DIYing HRT, to **do your own research.** Review the clinical guidelines that are linked in the [guidelines page](https://kerrykins.github.io/transresourceslondonON/gac_guidelines.html). 
+
+## Starting DIY 
+
+First off, make sure you have done your research and continue to amass resources so that you are doing it as safely as possible. This guide lists many of the best resources for starting DIY HRT. The [Queer Health DIY Roadmap](https://www.queerhealth.info/projects/diyhrt) in particular is the most comprehensive and accessible guide that separates it into transfeminine and transmasculine with frequently asked questions and links to source material. 
+
+### Other Important Resources 
 
 1. [**Trans Harm Reduction**](https://transharmreduction.org/)
 2. [**Queer Health DIY Roadmap**](https://www.queerhealth.info/projects/diyhrt) - UK based
@@ -47,7 +53,7 @@ When someone introduces a significant amount of progesterone into their body, yo
 If the person's body sticks to the primary pathways, they will get a sudden rush of allopregnanolone (the byproduct) which results in lethargy, brain fog, mood destabilisation. 
 
 For more reading:
-1. [Androgen Backdoor Pathway[(https://en.wikipedia.org/wiki/Androgen_backdoor_pathway)
+1. [Androgen Backdoor Pathway](https://en.wikipedia.org/wiki/Androgen_backdoor_pathway)
 2. [Classic and backdoor pathways of androgen biosynthesis in human sexual development](https://pmc.ncbi.nlm.nih.gov/articles/PMC9260366/#:~:text=Keywords%3A%20Androgen%2C%20Testosterone%2C%20Sex%20development%2C%20Backdoor%20pathway.,DHT%20is%20called%20the%20conventional%20classic%20pathway.)
 3. [Backdoor Pathway of DHT synthesis](https://www.researchgate.net/figure/The-backdoor-pathway-of-DHT-synthesis-involves-the-conversion-of-androstanediol-to-DHT-by_fig1_51250067#:~:text=Under%20normal%20physiologic%20conditions%2C%20DHT%20is%20synthesized%20predominantly%20by%205%CE%B1%2Dreduction%20of%20testosterone)
-4. 
+
