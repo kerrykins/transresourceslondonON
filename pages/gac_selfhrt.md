@@ -36,6 +36,18 @@ Testosterone and anabolic steroids are often restricted (or outright banned) sub
 
 ### Notes on Progesterone 
 
+Standard clinical guidelines on the use of progesterone is 100mg-200mg daily. Some transfeminine people may independently increase their daily dose by a significant amount. This has significant potential health effects. 
 
+There is a mechanism called "[backdoor pathway](https://en.wikipedia.org/wiki/Androgen_backdoor_pathway)" to DHT (dihydrotestosterone). Basically, the human body has a backdoor mechanism that can convert progestoerone into DHT. 
 
+There is some community data (e.g., Dr. Will Powers on r/DrWillPowers) that at normal doses, some transfemmes do actively convert progesterone to DHT at normal doses (100-200mg). When that happens, some doctors will use dutasteride to block that mechanism or stop prog use. Note that DHT has a masculinising effect. 
 
+When someone introduces a significant amount of progesterone into their body, your body looks for mechanisms to metabolise the prog because it was just flooded with so much of it. If the body has the enzyme profile that is prone to conversion, then that person would've created a huge DHT spike. 
+
+If the person's body sticks to the primary pathways, they will get a sudden rush of allopregnanolone (the byproduct) which results in lethargy, brain fog, mood destabilisation. 
+
+For more reading:
+1. [Androgen Backdoor Pathway[(https://en.wikipedia.org/wiki/Androgen_backdoor_pathway)
+2. [Classic and backdoor pathways of androgen biosynthesis in human sexual development](https://pmc.ncbi.nlm.nih.gov/articles/PMC9260366/#:~:text=Keywords%3A%20Androgen%2C%20Testosterone%2C%20Sex%20development%2C%20Backdoor%20pathway.,DHT%20is%20called%20the%20conventional%20classic%20pathway.)
+3. [Backdoor Pathway of DHT synthesis](https://www.researchgate.net/figure/The-backdoor-pathway-of-DHT-synthesis-involves-the-conversion-of-androstanediol-to-DHT-by_fig1_51250067#:~:text=Under%20normal%20physiologic%20conditions%2C%20DHT%20is%20synthesized%20predominantly%20by%205%CE%B1%2Dreduction%20of%20testosterone)
+4. 

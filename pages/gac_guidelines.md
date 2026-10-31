@@ -45,3 +45,7 @@ Different health systems can approach gender-affirming care differently (althoug
 - [Trans Care BC](https://www.phsa.ca/transcarebc/Documents/HealthProf/Primary-Care-Toolkit.pdf)
 - [Fenway Health](https://www.lgbthealtheducation.org/publication/transgender-sod/)
 - [University of California, San Francisco](https://transhealth.ucsf.edu/trans?page=guidelines-home)
+
+### Other Guidelines 
+
+- [Clinical Guidelines with Information on Transfeminine Hormone Therapy](https://transfemscience.org/articles/transfem-hormone-guidelines/) - Transfeminine Science

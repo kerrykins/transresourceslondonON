@@ -22,7 +22,9 @@ Quick Guides for Hormone Therapy
 | :----- | :----- | :----- | :----- | 
 | Feminising HRT | Rainbow Health Ontario | [Website](https://www.rainbowhealthontario.ca/TransHealthGuide/gp-femht.html) | [PDF](https://www.rainbowhealthontario.ca/TransHealthGuide/pdf/QRG_femHT_2021.pdf) | 
 | | Transfeminine Science | [Website](https://transfemscience.org/articles/transfem-intro/) | |
+| | Trans Care Project | | [PDF](https://d31kydh6n6r5j5.cloudfront.net/uploads/sites/161/2019/08/hormones_MTF.pdf) |
 Masculinising HRT | Rainbow Health Ontario | [Website](https://www.rainbowhealthontario.ca/TransHealthGuide/gp-mascht.html) | [PDF](https://www.rainbowhealthontario.ca/TransHealthGuide/pdf/QRG_mascHT_rev2021.pdf) |
+| | Trans Care Project | | [PDF](https://d31kydh6n6r5j5.cloudfront.net/uploads/sites/161/2019/08/hormones_FTM.pdf) |
 
 #### Non-Binary Considerations
 
