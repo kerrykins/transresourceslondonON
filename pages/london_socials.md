@@ -22,13 +22,13 @@ permalink: london_social.html
 | **Jr and Sr Youth Groups** <br> *by pflag* | <span class="label label-default">Social</span> | 2nd Wednesday <br> 6pm-8:30pm | <a href="#" data-toggle="tooltip" data-original-title="{{site.data.terms.lochidden}}">Location Hidden</a> | ✔ |
 | **Karaoke for Homosexuals** <br> *by Honey Dip* | <span class="label label-default">Social</span> <br> <span class="label label-success">Music & Dance</span> | 1st Wednesday <br> 6pm-12am | Honey Dip | ✔ | 
 | **London Lesbian Film Festival** | | | | | | |
-| **Monthly Hike** <br> *by QX*| <span class="label label-default">Social</span> <br> Sports & Rec |  | Varies | ✔ | |
+| **Monthly Hike** <br> *by QX*| <span class="label label-default">Social</span> <br> <span class="label label-warning">Sports & Rec</span> |  | Varies | ✔ | |
 | **Parents & Caregivers Group** <br> *by pflag London*| <span class="label label-info">Support</span> | 2nd Wednesday <br> 6pm-8:30pm | <a href="#" data-toggle="tooltip" data-original-title="{{site.data.terms.lochidden}}">Location Hidden</a>  | ✔ |  
 | **Queeraoke** | <span class="label label-default">Social</span> <br> <span class="label label-success">Music & Dance</span> | Monday <br> 6pm-9pm | London Brewing Co-Op | ✔ | 
 | **Queerdos** <br> *by pflag London* | <span class="label label-default">Social</span> | 3rd Wednesday <br> 6pm-8:30pm | <a href="#" data-toggle="tooltip" data-original-title="{{site.data.terms.lochidden}}">Location Hidden</a> | ✔ | 
 | **Queer Crafters** <br> *by Queer Nexus* | <span class="label label-default">Social</span> <br> Arts & Crafts | 1st Monday <br> 12pm-2pm | Tea Haus | ✔ | 
 | **Queer Sewcial** <br> *by QX*| <span class="label label-default">Social</span> <br> Arts & Crafts | | Central Library | ✔ | 
-| **Social Run** <br> *by Frontrunners* | <span class="label label-default">Social</span> <br> Sports & Rec | Tuesday 5:30pm <br> Saturday 9:00am | London Bicycle Cafe | ✔ | 
+| **Social Run** <br> *by Frontrunners* | <span class="label label-default">Social</span> <br> <span class="label label-warning">Sports & Rec</span> | Tuesday 5:30pm <br> Saturday 9:00am | London Bicycle Cafe | ✔ | 
 | **Trans Collective** 🏳️‍⚧️ <br> *by pflag London* | <span class="label label-default">Social</span> | 1st Wednesday <br> 6pm-8:30pm | <a href="#" data-toggle="tooltip" data-original-title="{{site.data.terms.lochidden}}">Location Hidden</a>  | ✔ | 
 | **Trans & Friends Social** 🏳️‍⚧ <br> *by Queer Nexus* | <span class="label label-default">Social</span> | Varying Dates & Time | Covent Garden Market | ✔ | 
 | **Trans\* London Social** 🏳️‍⚧️ <br> *by pflag London*| <span class="label label-default">Social</span> | 4th Wednesday <br> 6pm-8:30pm | <a href="#" data-toggle="tooltip" data-original-title="{{site.data.terms.lochidden}}">Location Hidden</a>  | ✔ | 
