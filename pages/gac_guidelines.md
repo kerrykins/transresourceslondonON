@@ -30,7 +30,7 @@ Unlike HRT's informed consent model, OHIP-funded surgeries require provincial ap
 
 After your provider submits the funding application, the Ministry of Health muskert approve it before any surgery can take place. 
 
-See this [guide's page on TRS](/gac_trs.html) and Rainbow Health Ontario's [TRS Frequently Asked Questions](https://www.rainbowhealthontario.ca/wp-content/uploads/2025/08/RHO-GAS-FAQ.pdf) for information about assessments, referrals, and OHIP coverage.
+See this [guide's page on TRS](https://kerrykins.github.io/transresourceslondonON/gac_trs.html) and Rainbow Health Ontario's [TRS Frequently Asked Questions](https://www.rainbowhealthontario.ca/wp-content/uploads/2025/08/RHO-GAS-FAQ.pdf) for information about assessments, referrals, and OHIP coverage.
 
 ## GAC Guidelines
 
