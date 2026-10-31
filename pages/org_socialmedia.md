@@ -9,7 +9,7 @@ permalink: org_socialmedia.html
 
 ---
 
-# General & Social
+## General & Social
 
 | Platform  | Description |
 | :---------------- | :----------- |
@@ -17,7 +17,7 @@ permalink: org_socialmedia.html
 | Facebook | [London (Ontario) LGBT Community](https://www.facebook.com/groups/queerlondon) |
 | Discord |  [Queer Nexus](https://discord.gg/nR9qrjZCHG) (London, ON based) <br> [r/TransOntario](https://discord.gg/A23m6CczT7) (province-wide) |
 
-# HRT (including DIY)
+## HRT (including DIY)
 
 | Platform  | Description |
 | :---------------- | :----------- |
