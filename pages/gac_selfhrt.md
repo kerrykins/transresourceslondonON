@@ -53,7 +53,7 @@ Make sure you are aware of the appropriate gender reference ranges so that you c
 
 ## Risks 
 
-A common trap in DIY transition spaces is that more = faster changes. In many cases, a massive chemical input does not force a faster physical output. Moreover, this has potential to backfire and cause harm. 
+This section describes some common variables that those self-medicating HRT should be aware of. 
 
 ### Legality
 
@@ -64,6 +64,14 @@ Estradiol and antiandrogens are not controlled substances. They are legal to own
 #### Transmasculine 
 
 Testosterone and anabolic steroids are often restricted (or outright banned) substances, depending on the jurisdiction. This means that buying and/or selling testosterone can carry a much higher legal risk. Familiarise yourself with the law. 
+
+### Notes on Anti-Androgens (Blockers) 
+
+TBA
+
+### Notes on Estradiol 
+
+TBA
 
 ### Notes on Progesterone 
 
@@ -82,3 +90,20 @@ For more reading:
 2. [Classic and backdoor pathways of androgen biosynthesis in human sexual development](https://pmc.ncbi.nlm.nih.gov/articles/PMC9260366/#:~:text=Keywords%3A%20Androgen%2C%20Testosterone%2C%20Sex%20development%2C%20Backdoor%20pathway.,DHT%20is%20called%20the%20conventional%20classic%20pathway.)
 3. [Backdoor Pathway of DHT synthesis](https://www.researchgate.net/figure/The-backdoor-pathway-of-DHT-synthesis-involves-the-conversion-of-androstanediol-to-DHT-by_fig1_51250067#:~:text=Under%20normal%20physiologic%20conditions%2C%20DHT%20is%20synthesized%20predominantly%20by%205%CE%B1%2Dreduction%20of%20testosterone)
 
+### Notes on Bloodwork Monitoring 
+
+TBA 
+
+### Notes on Supply Chains 
+
+TBA 
+
+### Notes on Cardiovascular Stress 
+
+TBA 
+
+### Notes on 'Stall" Panic 
+
+TBA 
+
+A common trap in DIY transition spaces is that more = faster changes. In many cases, a massive chemical input does not force a faster physical output. Moreover, this has potential to backfire and cause harm. 
