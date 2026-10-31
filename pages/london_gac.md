@@ -36,11 +36,11 @@ Provider Name   | Type of Provider                           | Services | Notes
 **Dr. Stanislaus Van Uum** <br> 519-646-6170 | Endocrinologist | <span class="label label-success">HRT</span> |
 **Dr. Ranjit Singarayer** <br> 226-680-0802 | Endocrinologist | <span class="label label-success">HRT</span> |  
 [**Gender Pathways Service**](https://www.lhsc.on.ca/gender-pathways-service) <br> gps@lhsc.on.ca | Endocrinologist | <span class="label label-success">HRT</span> <br> <span class="label label-danger">Puberty Suppression</span> <br> <span class="label label-default">Psychosocial Support</span> | 17yo or younger only 
-**Dr. Debbie Penava** | OB/GYN | OB/GYN |  
-**Dr. Laura Sovran** | OB/GYN | OB/GYN | 
-**Dr. Stephanie Black** | OB/GYN | OB/GYN | 
-**Dr. Stephanie Moltner** | OB/GYN | <span class="label label-success">HRT</span> <br> OB/GYN <br> <span class="label label-safe">Post-Op Care </span> | 
-[**CAMH Gender Identity Clinic**](https://www.camh.ca/en/patients-and-families/programs-and-services/gender-identity-clinic-adult) <br> *Virtual* | Psychiatry | <span class="label label-info">1st Surgery Assess.</span> <br> 2nd Surgery Assess. <br> Psychiatry <br> <span class="label label-default">Psychosocial Support</span> | 17+ only. <br> No HRT 
+**Dr. Debbie Penava** | OB/GYN | <span class="label label-third">OB/GYN</span> |  
+**Dr. Laura Sovran** | OB/GYN | <span class="label label-third">OB/GYN</span> | 
+**Dr. Stephanie Black** | OB/GYN | <span class="label label-third">OB/GYN</span> | 
+**Dr. Stephanie Moltner** | OB/GYN | <span class="label label-success">HRT</span> <br> <span class="label label-third">OB/GYN</span> <br> <span class="label label-safe">Post-Op Care </span> | 
+[**CAMH Gender Identity Clinic**](https://www.camh.ca/en/patients-and-families/programs-and-services/gender-identity-clinic-adult) <br> *Virtual* | Psychiatry | <span class="label label-info">1st Surgery Assess.</span> <br> <span class="label label-warning">2nd Surgery Assess.</span> <br> <span class="label label-fourth">Psychiatry</span> <br> <span class="label label-default">Psychosocial Support</span> | 17+ only. <br> No HRT 
 
 <div class="datatable-end"></div>
 

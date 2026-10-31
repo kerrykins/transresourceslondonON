@@ -1206,3 +1206,13 @@ h4.panel-title {
   background-color: #4147DC; /* Replace with your desired hex color */
   color: #ffffff;            /* Forces text to stay white */
 }
+
+.label-third {
+  background-color: #3D81E1; /* Replace with your desired hex color */
+  color: #ffffff;            /* Forces text to stay white */
+}
+
+.label-fourth {
+  background-color: #E13DD3; /* Replace with your desired hex color */
+  color: #ffffff;            /* Forces text to stay white */
+}
