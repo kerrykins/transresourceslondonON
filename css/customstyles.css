@@ -1201,3 +1201,8 @@ h4.panel-title {
         display:block !important;
     }
 }
+
+.label-safe {
+  background-color: #4147DC; /* Replace with your desired hex color */
+  color: #ffffff;            /* Forces text to stay white */
+}
