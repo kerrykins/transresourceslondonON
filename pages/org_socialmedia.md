@@ -9,9 +9,19 @@ permalink: org_socialmedia.html
 
 ---
 
+# General & Social
+
 | Platform  | Description |
 | :---------------- | :----------- |
 | Reddit | [**r/transontario**](https://www.reddit.com/r/transontario/) <br> [r/mtf](https://www.reddit.com/r/mtf), [r/ftm](https://www.reddit.com/r/ftm), [r/lgbt](https://www.reddit.com/r/lgbt), [r/trans](https://www.reddit.com/r/trans), [r/transtimelines](https://www.reddit.com/r/transtimelines), [r/transgenderteens](https://www.reddit.com/r/transgenderteens), [r/transgender](https://www.reddit.com/r/transgender), <br> [r/nonbinary](https://www.reddit.com/r/nonbinary), [r/genderqueer](https://www.reddit.com/r/genderqueer), [r/TransSpace](https://www.reddit.com/r/transspace), [r/transprogrammer](https://www.reddit.com/r/transprogrammer), [r/Mtf_irl](https://www.reddit.com/r/mtf_irl) |
 | Facebook | [London (Ontario) LGBT Community](https://www.facebook.com/groups/queerlondon) |
 | Discord |  [Queer Nexus](https://discord.gg/nR9qrjZCHG) (London, ON based) <br> [r/TransOntario](https://discord.gg/A23m6CczT7) (province-wide) |
-| Other | [MtF HRT](https://groups.io/g/MTFHRT) |
+
+# HRT (including DIY)
+
+| Platform  | Description |
+| :---------------- | :----------- |
+| Reddit | [r/AskMtFHRT](https://www.reddit.com/r/AskMtFHRT/), [r/TransDIY](https://www.reddit.com/r/TransDIY/), [r/TransBreastTimelines](https://www.reddit.com/r/TransBreastTimelines/), [r/Transgender_Surgeries](https://www.reddit.com/r/Transgender_Surgeries/) |
+| Facebook | [TransHRT Hormone Forum](https://www.facebook.com/groups/TransHRT/) <br> [International Transgender Health](https://www.facebook.com/groups/transgenderhealth/) <br> [Transgender Professional Association for Transgender Health](https://www.facebook.com/groups/TPATH/) <br> [Transgender Medicine - Clinicians' Group](https://www.facebook.com/groups/1897716017189038/) |
+| Discord |  [TransDIY](https://discord.com/invite/QpaNPQsstw) |
+| Other | [MtF HRT](https://groups.io/g/MTFHRT)
