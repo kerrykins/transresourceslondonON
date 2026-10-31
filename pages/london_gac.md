@@ -2,7 +2,7 @@
 title: Gender-Affirming Medical Care Providers
 tags: [medical_care, LondonON]
 keywords: 
-last_updated: October 29, 2026
+last_updated: October 31, 2026
 summary: "A list of medical providers that provide gender-affirming care in London, ON"
 sidebar: mydoc_sidebar
 permalink: london_gac.html

@@ -2,7 +2,7 @@
 title: Trans & Queer Social Life
 tags: [social, LondonON]
 keywords: 
-last_updated: October 29, 2026
+last_updated: October 31, 2026
 summary: "Fun things to do for the trans community in London, ON"
 sidebar: mydoc_sidebar
 permalink: london_social.html
@@ -16,23 +16,23 @@ permalink: london_social.html
 
 | Event Name | Type of Event | Date & Time | Location | Free? | 
 | :------ | :------ | :------ | :------ | :------ | :------ | 
-| **Aeolian Pride Choruses** | Social <br> Music & Dance | <a href="#" data-toggle="tooltip" data-original-title="Additional dates and times for performance dates and dress rehearsals.">Sunday 7pm-9:30pm</a> <br> (Rehearsals)| | <a href="#" data-toggle="tooltip" data-original-title="$60 per season">✘</a> |
-| **Board Game Social** <br> *by QX* | Social | | Crouch Library | ✔ | 
-| **Book Club** <br> *by QX* | Social | | Central Library | ✔ | |
-| **Jr and Sr Youth Groups** <br> *by pflag* | Social | 2nd Wednesday <br> 6pm-8:30pm | <a href="#" data-toggle="tooltip" data-original-title="{{site.data.terms.lochidden}}">Location Hidden</a> | ✔ |
-| **Karaoke for Homosexuals** <br> *by Honey Dip* | Social <br> Music & Dance | 1st Wednesday <br> 6pm-12am | Honey Dip | ✔ | 
+| **Aeolian Pride Choruses** | <span class="label label-default">Social</span> <br> <span class="label label-success">Music & Dance</span> | <a href="#" data-toggle="tooltip" data-original-title="Additional dates and times for performance dates and dress rehearsals.">Sunday 7pm-9:30pm</a> <br> (Rehearsals)| | <a href="#" data-toggle="tooltip" data-original-title="$60 per season">✘</a> |
+| **Board Game Social** <br> *by QX* | <span class="label label-default">Social</span> | | Crouch Library | ✔ | 
+| **Book Club** <br> *by QX* | <span class="label label-default">Social</span> | | Central Library | ✔ | |
+| **Jr and Sr Youth Groups** <br> *by pflag* | <span class="label label-default">Social</span> | 2nd Wednesday <br> 6pm-8:30pm | <a href="#" data-toggle="tooltip" data-original-title="{{site.data.terms.lochidden}}">Location Hidden</a> | ✔ |
+| **Karaoke for Homosexuals** <br> *by Honey Dip* | <span class="label label-default">Social</span> <br> <span class="label label-success">Music & Dance</span> | 1st Wednesday <br> 6pm-12am | Honey Dip | ✔ | 
 | **London Lesbian Film Festival** | | | | | | |
-| **Monthly Hike** <br> *by QX*| Social <br> Sports & Rec |  | Varies | ✔ | |
-| **Parents & Caregivers Group** <br> *by pflag London*| Support | 2nd Wednesday <br> 6pm-8:30pm | <a href="#" data-toggle="tooltip" data-original-title="{{site.data.terms.lochidden}}">Location Hidden</a>  | ✔ |  
-| **Queeraoke** | Social <br> Music & Dance | Monday <br> 6pm-9pm | London Brewing Co-Op | ✔ | 
-| **Queerdos** <br> *by pflag London* | Social | 3rd Wednesday <br> 6pm-8:30pm | <a href="#" data-toggle="tooltip" data-original-title="{{site.data.terms.lochidden}}">Location Hidden</a> | ✔ | 
-| **Queer Crafters** <br> *by Queer Nexus* | Social <br> Arts & Crafts | 1st Monday <br> 12pm-2pm | Tea Haus | ✔ | 
-| **Queer Sewcial** <br> *by QX*| Social <br> Arts & Crafts | | Central Library | ✔ | 
-| **Social Run** <br> *by Frontrunners* | Social <br> Sports & Rec | Tuesday 5:30pm <br> Saturday 9:00am | London Bicycle Cafe | ✔ | 
-| **Trans Collective** 🏳️‍⚧️ <br> *by pflag London* | Social | 1st Wednesday <br> 6pm-8:30pm | <a href="#" data-toggle="tooltip" data-original-title="{{site.data.terms.lochidden}}">Location Hidden</a>  | ✔ | 
-| **Trans & Friends Social** 🏳️‍⚧ <br> *by Queer Nexus* | Social | Varying Dates & Time | Covent Garden Market | ✔ | 
-| **Trans\* London Social** 🏳️‍⚧️ <br> *by pflag London*| Social | 4th Wednesday <br> 6pm-8:30pm | <a href="#" data-toggle="tooltip" data-original-title="{{site.data.terms.lochidden}}">Location Hidden</a>  | ✔ | 
-| **Trans & NB Munch** 🔞 🏳️‍⚧️ | Social | 2nd Saturday <br> 3:30pm-5:30pm | <a href="#" data-toggle="tooltip" data-original-title="{{site.data.terms.lochidden}}">Location Hidden</a> <br> <a href="#" data-toggle="tooltip" data-original-title="Prior approval from the organisers required to be able to attend this event.">Approval Needed</a> | ✔ | 
+| **Monthly Hike** <br> *by QX*| <span class="label label-default">Social</span> <br> Sports & Rec |  | Varies | ✔ | |
+| **Parents & Caregivers Group** <br> *by pflag London*| <span class="label label-info">Support</span> | 2nd Wednesday <br> 6pm-8:30pm | <a href="#" data-toggle="tooltip" data-original-title="{{site.data.terms.lochidden}}">Location Hidden</a>  | ✔ |  
+| **Queeraoke** | <span class="label label-default">Social</span> <br> <span class="label label-success">Music & Dance</span> | Monday <br> 6pm-9pm | London Brewing Co-Op | ✔ | 
+| **Queerdos** <br> *by pflag London* | <span class="label label-default">Social</span> | 3rd Wednesday <br> 6pm-8:30pm | <a href="#" data-toggle="tooltip" data-original-title="{{site.data.terms.lochidden}}">Location Hidden</a> | ✔ | 
+| **Queer Crafters** <br> *by Queer Nexus* | <span class="label label-default">Social</span> <br> Arts & Crafts | 1st Monday <br> 12pm-2pm | Tea Haus | ✔ | 
+| **Queer Sewcial** <br> *by QX*| <span class="label label-default">Social</span> <br> Arts & Crafts | | Central Library | ✔ | 
+| **Social Run** <br> *by Frontrunners* | <span class="label label-default">Social</span> <br> Sports & Rec | Tuesday 5:30pm <br> Saturday 9:00am | London Bicycle Cafe | ✔ | 
+| **Trans Collective** 🏳️‍⚧️ <br> *by pflag London* | <span class="label label-default">Social</span> | 1st Wednesday <br> 6pm-8:30pm | <a href="#" data-toggle="tooltip" data-original-title="{{site.data.terms.lochidden}}">Location Hidden</a>  | ✔ | 
+| **Trans & Friends Social** 🏳️‍⚧ <br> *by Queer Nexus* | <span class="label label-default">Social</span> | Varying Dates & Time | Covent Garden Market | ✔ | 
+| **Trans\* London Social** 🏳️‍⚧️ <br> *by pflag London*| <span class="label label-default">Social</span> | 4th Wednesday <br> 6pm-8:30pm | <a href="#" data-toggle="tooltip" data-original-title="{{site.data.terms.lochidden}}">Location Hidden</a>  | ✔ | 
+| **Trans & NB Munch** 🔞 🏳️‍⚧️ | <span class="label label-default">Social</span> | 2nd Saturday <br> 3:30pm-5:30pm | <a href="#" data-toggle="tooltip" data-original-title="{{site.data.terms.lochidden}}">Location Hidden</a> <br> <a href="#" data-toggle="tooltip" data-original-title="Prior approval from the organisers required to be able to attend this event.">Approval Needed</a> | ✔ | 
 
 ## Trans-Friendly Social Venues
 
