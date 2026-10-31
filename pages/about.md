@@ -105,12 +105,12 @@ folder: mydoc
                     <div class="panel panel-default">
                         <div class="panel-heading">
                             <h4 class="panel-title">
-                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseNine">Can I share this with others?</a>
+                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseSeven">Will you expand this guide beyond London?</a>
                             </h4>
                         </div>
-                        <div id="collapseNine" class="panel-collapse collapse">
+                        <div id="collapseSeven" class="panel-collapse collapse">
                             <div class="panel-body">
-                                Of course! I just ask that you don't copy it word for word, format for format, and pass it as your own work!
+                                Within Ontario, the most comprehensive guide is the [Gender Affirming Resources Ontario](https://docs.google.com/spreadsheets/d/111o63Tvt20heohe9KtRW_AZPBKOz4kpZ1pb7r0CJpvU/edit?gid=96267087#gid=96267087) spreadsheet. For cities that are not London, I suggest to use that sheet instead. I have no plans to replicate that scope as that is an inefficient use of resources. <br> <br> However, if I move to another city, this guide will update to reflect the new city I move to. In turn, the London-specific pages will be archived or handed over to someone else to manage. 
                             </div>
                         </div>
                     </div>
@@ -118,12 +118,12 @@ folder: mydoc
                     <div class="panel panel-default">
                         <div class="panel-heading">
                             <h4 class="panel-title">
-                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseNine">Will you expand this guide beyond London?</a>
+                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseNine">Can I share this with others?</a>
                             </h4>
                         </div>
                         <div id="collapseNine" class="panel-collapse collapse">
                             <div class="panel-body">
-                                Within Ontario, the most comprehensive guide is the [Gender Affirming Resources Ontario](https://docs.google.com/spreadsheets/d/111o63Tvt20heohe9KtRW_AZPBKOz4kpZ1pb7r0CJpvU/edit?gid=96267087#gid=96267087) spreadsheet. For cities that are not London, I suggest to use that sheet instead. I have no plans to replicate that scope as that is an inefficient use of resources. <br> <br> However, if I move to another city, this guide will update to reflect the new city I move to. In turn, the London-specific pages will be archived or handed over to someone else to manage. 
+                                Of course! I just ask that you don't copy it word for word, format for format, and pass it as your own work!
                             </div>
                         </div>
                     </div>
