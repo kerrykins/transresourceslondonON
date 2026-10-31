@@ -98,6 +98,18 @@ TBA
 
 TBA 
 
+### Notes on Injections 
+
+TBA
+
+### Notes on Modulators 
+
+TBA
+
+### Notes on Liver Toxicity 
+
+TBA
+
 ### Notes on Cardiovascular Stress 
 
 TBA 

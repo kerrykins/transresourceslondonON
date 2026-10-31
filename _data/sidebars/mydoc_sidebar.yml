@@ -80,6 +80,10 @@ entries:
       url: /res_youth.html
       output: web, pdf
 
+    - title: Injections 
+      url: /res_injection.html
+      output: web, pdf
+
     - title: Other Resource Collections 
       url: /res_others.html
       output: web, pdf
@@ -117,7 +121,7 @@ entries:
       output: web, pdf
 
     - title: Injection Supplies (WIP)
-      url: 
+      url: /london_injection.html
       output: web, pdf
 
     - title: Allied Healthcare (WIP)
