@@ -3,7 +3,7 @@ title: Self Medicating HRT (DIY)
 tags: [medical_care, guidelines]
 keywords: 
 last_updated: October 31, 2026
-summary: "Resources and harm reduction related to self-medicating HRT"
+summary: "Resources and harm reduction related to self-medicating HRT."
 sidebar: mydoc_sidebar
 permalink: gac_selfhrt.html
 datatable: true
@@ -23,7 +23,9 @@ It is pertiment, especially when DIYing HRT, to **do your own research.** Review
 
 ## Starting DIY 
 
-First off, make sure you have done your research and continue to amass resources so that you are doing it as safely as possible. This guide lists many of the best resources for starting DIY HRT. The [Queer Health DIY Roadmap](https://www.queerhealth.info/projects/diyhrt) in particular is the most comprehensive and accessible guide that separates it into transfeminine and transmasculine with frequently asked questions and links to source material. 
+First off, make sure you have done your research and continue to amass resources so that you are doing it as safely as possible. This guide lists many of the best resources for starting DIY HRT. 
+
+The [Queer Health DIY Roadmap](https://www.queerhealth.info/projects/diyhrt) in particular is the most comprehensive and accessible guide that separates it into transfeminine and transmasculine with frequently asked questions and links to source material. 
 
 ### Other Important Resources 
 
@@ -31,12 +33,35 @@ First off, make sure you have done your research and continue to amass resources
 2. [**Queer Health DIY Roadmap**](https://www.queerhealth.info/projects/diyhrt) - UK based
 3. [**Trans Patient Union**](https://transpatientunion.org/en/resource/diy-hrt/) - Quebec based
 4. [**r/TransDIY wiki**](https://www.reddit.com/r/TransDIY/wiki/index/)
+5. [Estradiol Pharmacokinetics Playground](https://estrannai.se/)
 
-### Risks 
+## Bloodwork in Canada 
+
+Private blood tests are very expensive in Canada. Any type of lab testing (private or public) will require a referral from a doctor. 
+
+Generally, doctors will not want to test your levels if you tell them you want it to evaluate self-administered medication. However, coming up with a convincing reason to want a hormonal profile should not be too difficult. Note that some doctors will give you  hard time if they feel you are using them for blood work for self-medicating hormones.  
+
+Make sure you are aware of the appropriate gender reference ranges so that you can interpret the reports accurately. Labs will send you the results directl if you ask for them. 
+
+{% include important.html content="Doctors are not allowed to report patients to the police for buying or using restricted/controlled substances such as hormones." %}
+
+### Private Bloodwork Services 
+
+1. [Blood Tests Canada](https://bloodtestscanada.com/) 
+2. [Maple[(https://www.getmaple.ca/features/lab-work/)
+3. [Dialogue](https://www.dialogue.co/en/)
+
+## Risks 
 
 A common trap in DIY transition spaces is that more = faster changes. In many cases, a massive chemical input does not force a faster physical output. Moreover, this has potential to backfire and cause harm. 
 
-### Transmasculine HRT Risks
+### Legality
+
+#### Transfeminine
+
+Estradiol and antiandrogens are not controlled substances. They are legal to own. However, given that prescription medications are illegal to buy or share with a prescription of license, you may see customs seizure. 
+
+#### Transmasculine 
 
 Testosterone and anabolic steroids are often restricted (or outright banned) substances, depending on the jurisdiction. This means that buying and/or selling testosterone can carry a much higher legal risk. Familiarise yourself with the law. 
 
