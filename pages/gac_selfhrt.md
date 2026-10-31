@@ -34,6 +34,7 @@ The [Queer Health DIY Roadmap](https://www.queerhealth.info/projects/diyhrt) in 
 3. [**Trans Patient Union**](https://transpatientunion.org/en/resource/diy-hrt/) - Quebec based
 4. [**r/TransDIY wiki**](https://www.reddit.com/r/TransDIY/wiki/index/)
 5. [**Estradiol Pharmacokinetics Playground**](https://estrannai.se/)
+6. [The DIY HRT Directory](https://diyhrt.wiki/injectionsupplies)
 
 ## Bloodwork in Canada 
 
