@@ -5653,15 +5653,6 @@ a.label:hover {
     background-color: #286090
 }
 
-.label-safe {
-	background-color: #4147DC
-}
-
-.label-safe[href]:focus,
-.label-safe[href]:hover {
-	background-color: #539EC9
-}
-
 .label-success {
     background-color: #5cb85c
 }
@@ -7535,4 +7526,9 @@ button.close {
     .hidden-print {
         display: none!important
     }
+}
+
+.label-safe {
+  background-color: #4147DC; /* Replace with your desired hex color */
+  color: #ffffff;            /* Forces text to stay white */
 }
