@@ -39,7 +39,8 @@ datatable: true
 | **Trans\* London Social** 🏳️‍⚧️ <br> *by pflag London*| <span class="label label-default">Social</span> | 4th Wednesday <br> 6pm-8:30pm | <a href="#" data-toggle="tooltip" data-original-title="{{site.data.terms.lochidden}}">Location Hidden</a>  | ✔ | 
 | **Trans & NB Munch** 🔞 🏳️‍⚧️ | <span class="label label-default">Social</span> <br> <span class="label label-danger">Adults (18+)</span> | 2nd Saturday <br> 3:30pm-5:30pm | <a href="#" data-toggle="tooltip" data-original-title="{{site.data.terms.lochidden}}">Location Hidden</a> <br> <a href="#" data-toggle="tooltip" data-original-title="Prior approval from the organisers required to be able to attend this event.">Approval Needed</a> | ✔ | 
 
-<table class="display">
+
+<table class="datatable">
     <tr>
         <th>Event Name</th>
         <td>Type</td>
@@ -221,7 +222,7 @@ datatable: true
         <td></td>
     </tr>
     <tr>
-        <th>**Trans\* London Social** 🏳️‍⚧️ &lt;br&gt; *by pflag London*</th>
+        <th><b>Trans* London Social</b> 🏳️‍⚧️; *by pflag London*</th>
         <td>&lt;span class=&quot;label label-default&quot;&gt;Social&lt;/span&gt;</td>
         <td>4th Wednesday &lt;br&gt; 6pm-8:30pm</td>
         <td>&lt;a href=&quot;#&quot; data-toggle=&quot;tooltip&quot; data-original-title=&quot;{{site.data.terms.lochidden}}&quot;&gt;Location Hidden&lt;/a&gt;</td>
