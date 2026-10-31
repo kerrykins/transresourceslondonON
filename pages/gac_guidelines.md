@@ -2,7 +2,7 @@
 title: Accessing Gender Affirming Care & Guidelines
 tags: [medical_care, guidelines, getting_started]
 keywords: 
-last_updated: October 29, 2026
+last_updated: October 31, 2026
 summary: "Introduction to accessing gender-affirming medical care (HRT and TRS) in Ontario, Canada."
 sidebar: mydoc_sidebar
 permalink: gac_guidelines.html
