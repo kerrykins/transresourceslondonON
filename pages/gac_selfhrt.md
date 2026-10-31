@@ -27,6 +27,8 @@ First off, make sure you have done your research and continue to amass resources
 
 The [Queer Health DIY Roadmap](https://www.queerhealth.info/projects/diyhrt) in particular is the most comprehensive and accessible guide that separates it into transfeminine and transmasculine with frequently asked questions and links to source material. 
 
+Moreover, the DIY HRT Directory has separate guides for [transfems](https://diyhrt.wiki/transfem) and [transmascs](https://diyhrt.wiki/transmasc). 
+
 ### Other Important Resources 
 
 1. [**Trans Harm Reduction**](https://transharmreduction.org/)
@@ -51,6 +53,23 @@ Make sure you are aware of the appropriate gender reference ranges so that you c
 1. [Blood Tests Canada](https://bloodtestscanada.com/) 
 2. [Maple](https://www.getmaple.ca/features/lab-work/)
 3. [Dialogue](https://www.dialogue.co/en/)
+
+### Interpreting Bloodwork Results 
+
+TBA
+
+{% include important.html content="Some resources are U.S. based. They may have different units of measurement compared to Canadian labs. **Always confirm the units of measurement.**" %}
+
+#### Transfeminine 
+
+Review the guidelines listed in the following pages to interpret your results. 
+1. [Blood tests (transfem)](https://diyhrt.wiki/bloodtests) - DIY HRT Directory
+2. Transfeminine Science 
+3. Rainbow Health Ontario 
+
+#### Transmasculine 
+
+1. Rainbow Health Ontario 
 
 ## Risks 
 
