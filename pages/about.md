@@ -4,7 +4,7 @@ permalink: about.html
 sidebar: mydoc_sidebar
 tags: [getting_started]
 keywords: frequently asked questions, FAQ, question and answer, collapsible sections, expand, collapse
-last_updated: October 29, 2026
+last_updated: October 31, 2026
 summary: "A list of frequently asked questions and answers related to this guide."
 toc: false
 folder: mydoc
