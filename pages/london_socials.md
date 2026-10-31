@@ -14,7 +14,7 @@ permalink: london_social.html
 
 ## Recurring Events
 
-| Event Name | Type of Event | Date & Time | Location | Free? | 
+| Event Name | Type | Date & Time | Location | Free? | 
 | :------ | :------ | :------ | :------ | :------ | :------ | 
 | **Aeolian Pride Choruses** | <span class="label label-default">Social</span> <br> <span class="label label-success">Music & Dance</span> | <a href="#" data-toggle="tooltip" data-original-title="Additional dates and times for performance dates and dress rehearsals.">Sunday 7pm-9:30pm</a> <br> (Rehearsals)| | <a href="#" data-toggle="tooltip" data-original-title="$60 per season">✘</a> |
 | **Board Game Social** <br> *by QX* | <span class="label label-default">Social</span> | | Crouch Library | ✔ | 
@@ -26,8 +26,8 @@ permalink: london_social.html
 | **Parents & Caregivers Group** <br> *by pflag London*| <span class="label label-info">Support</span> | 2nd Wednesday <br> 6pm-8:30pm | <a href="#" data-toggle="tooltip" data-original-title="{{site.data.terms.lochidden}}">Location Hidden</a>  | ✔ |  
 | **Queeraoke** | <span class="label label-default">Social</span> <br> <span class="label label-success">Music & Dance</span> | Monday <br> 6pm-9pm | London Brewing Co-Op | ✔ | 
 | **Queerdos** <br> *by pflag London* | <span class="label label-default">Social</span> | 3rd Wednesday <br> 6pm-8:30pm | <a href="#" data-toggle="tooltip" data-original-title="{{site.data.terms.lochidden}}">Location Hidden</a> | ✔ | 
-| **Queer Crafters** <br> *by Queer Nexus* | <span class="label label-default">Social</span> <br> Arts & Crafts | 1st Monday <br> 12pm-2pm | Tea Haus | ✔ | 
-| **Queer Sewcial** <br> *by QX*| <span class="label label-default">Social</span> <br> Arts & Crafts | | Central Library | ✔ | 
+| **Queer Crafters** <br> *by Queer Nexus* | <span class="label label-default">Social</span> <br> <span class="label label-third">Arts & Crafts</span> | 1st Monday <br> 12pm-2pm | Tea Haus | ✔ | 
+| **Queer Sewcial** <br> *by QX*| <span class="label label-default">Social</span> <br> <span class="label label-third">Arts & Crafts</span> | | Central Library | ✔ | 
 | **Social Run** <br> *by Frontrunners* | <span class="label label-default">Social</span> <br> <span class="label label-warning">Sports & Rec</span> | Tuesday 5:30pm <br> Saturday 9:00am | London Bicycle Cafe | ✔ | 
 | **Trans Collective** 🏳️‍⚧️ <br> *by pflag London* | <span class="label label-default">Social</span> | 1st Wednesday <br> 6pm-8:30pm | <a href="#" data-toggle="tooltip" data-original-title="{{site.data.terms.lochidden}}">Location Hidden</a>  | ✔ | 
 | **Trans & Friends Social** 🏳️‍⚧ <br> *by Queer Nexus* | <span class="label label-default">Social</span> | Varying Dates & Time | Covent Garden Market | ✔ | 
