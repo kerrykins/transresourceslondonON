@@ -6,6 +6,7 @@ last_updated: October 31, 2026
 summary: "Fun things to do for the trans community in London, ON"
 sidebar: mydoc_sidebar
 permalink: london_social.html
+datatable: true
 ---
 
 {% include note.html content="This section is a work in progress." %}
@@ -37,6 +38,207 @@ permalink: london_social.html
 | **Trans & Friends Social** 🏳️‍⚧ <br> *by Queer Nexus* | <span class="label label-default">Social</span> | Varying Dates & Time | Covent Garden Market | ✔ | 
 | **Trans\* London Social** 🏳️‍⚧️ <br> *by pflag London*| <span class="label label-default">Social</span> | 4th Wednesday <br> 6pm-8:30pm | <a href="#" data-toggle="tooltip" data-original-title="{{site.data.terms.lochidden}}">Location Hidden</a>  | ✔ | 
 | **Trans & NB Munch** 🔞 🏳️‍⚧️ | <span class="label label-default">Social</span> <br> <span class="label label-danger">Adults (18+)</span> | 2nd Saturday <br> 3:30pm-5:30pm | <a href="#" data-toggle="tooltip" data-original-title="{{site.data.terms.lochidden}}">Location Hidden</a> <br> <a href="#" data-toggle="tooltip" data-original-title="Prior approval from the organisers required to be able to attend this event.">Approval Needed</a> | ✔ | 
+
+<table class="display">
+    <tr>
+        <th>Event Name</th>
+        <td>Type</td>
+        <td>Date &amp; Time</td>
+        <td>Location</td>
+        <td>Free?</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <th><b>Aeolian Pride Choruses</b></th>
+        <td>&lt;span class=&quot;label label-default&quot;&gt;Social&lt;/span&gt; &lt;br&gt; &lt;span class=&quot;label label-success&quot;&gt;Music &amp; Dance&lt;/span&gt;</td>
+        <td>&lt;a href=&quot;#&quot; data-toggle=&quot;tooltip&quot; data-original-title=&quot;Additional dates and times for performance dates and dress rehearsals.&quot;&gt;Sunday 7pm-9:30pm&lt;/a&gt; &lt;br&gt; (Rehearsals)</td>
+        <td></td>
+        <td>&lt;a href=&quot;#&quot; data-toggle=&quot;tooltip&quot; data-original-title=&quot;$60 per season&quot;&gt;✘&lt;/a&gt;</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <th>**Board Game Social** &lt;br&gt; *by QX*</th>
+        <td>&lt;span class=&quot;label label-default&quot;&gt;Social&lt;/span&gt;</td>
+        <td></td>
+        <td>Crouch Library</td>
+        <td>✔</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <th>**Book Club** &lt;br&gt; *by QX*</th>
+        <td>&lt;span class=&quot;label label-default&quot;&gt;Social&lt;/span&gt;</td>
+        <td></td>
+        <td>Central Library</td>
+        <td>✔</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <th>**Jr Youth Group** &lt;br&gt; *by pflag*</th>
+        <td>&lt;span class=&quot;label label-default&quot;&gt;Social&lt;/span&gt; &lt;br&gt; &lt;span class=&quot;label label-fourth&quot;&gt;Youth (7-13)&lt;/span&gt;</td>
+        <td>2nd Wednesday &lt;br&gt; 6pm-8:30pm</td>
+        <td>&lt;a href=&quot;#&quot; data-toggle=&quot;tooltip&quot; data-original-title=&quot;{{site.data.terms.lochidden}}&quot;&gt;Location Hidden&lt;/a&gt;</td>
+        <td>✔</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <th>**Karaoke for Homosexuals** &lt;br&gt; *by Honey Dip*</th>
+        <td>&lt;span class=&quot;label label-default&quot;&gt;Social&lt;/span&gt; &lt;br&gt; &lt;span class=&quot;label label-success&quot;&gt;Music &amp; Dance&lt;/span&gt;</td>
+        <td>1st Wednesday &lt;br&gt; 6pm-12am</td>
+        <td>Honey Dip</td>
+        <td>✔</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <th>**London Lesbian Film Festival**</th>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <th>**LGBTea and Coffee** &lt;br&gt; *by pflag London*</th>
+        <td>&lt;span class=&quot;label label-default&quot;&gt;Social&lt;/span&gt; &lt;br&gt; &lt;span class=&quot;label label-danger&quot;&gt;Adults (55+)&lt;/span&gt;</td>
+        <td>2nd Wednesday &lt;br&gt; 1pm-3pm</td>
+        <td>&lt;a href=&quot;#&quot; data-toggle=&quot;tooltip&quot; data-original-title=&quot;{{site.data.terms.lochidden}}&quot;&gt;Location Hidden&lt;/a&gt;</td>
+        <td>✔</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <th>**Monthly Hike** &lt;br&gt; *by QX*</th>
+        <td>&lt;span class=&quot;label label-default&quot;&gt;Social&lt;/span&gt; &lt;br&gt; &lt;span class=&quot;label label-warning&quot;&gt;Sports &amp; Rec&lt;/span&gt;</td>
+        <td></td>
+        <td>Varies</td>
+        <td>✔</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <th>**Newcomers** &lt;br&gt; *by pflag London*</th>
+        <td>&lt;span class=&quot;label label-default&quot;&gt;Social&lt;/span&gt; &lt;br&gt;</td>
+        <td>1st Wednesday &lt;br&gt; 6pm-8:30pm</td>
+        <td>&lt;a href=&quot;#&quot; data-toggle=&quot;tooltip&quot; data-original-title=&quot;{{site.data.terms.lochidden}}&quot;&gt;Location Hidden&lt;/a&gt;</td>
+        <td>✔</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <th>**Parents &amp; Caregivers Group** &lt;br&gt; *by pflag London*</th>
+        <td>&lt;span class=&quot;label label-info&quot;&gt;Support&lt;/span&gt;</td>
+        <td>2nd Wednesday &lt;br&gt; 6pm-8:30pm</td>
+        <td>&lt;a href=&quot;#&quot; data-toggle=&quot;tooltip&quot; data-original-title=&quot;{{site.data.terms.lochidden}}&quot;&gt;Location Hidden&lt;/a&gt;</td>
+        <td>✔</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <th>**Partners Group** &lt;br&gt; *by pflag London*</th>
+        <td>&lt;span class=&quot;label label-default&quot;&gt;Social&lt;/span&gt; &lt;br&gt; &lt;span class=&quot;label label-info&quot;&gt;Support&lt;/span&gt;</td>
+        <td>4th Monday &lt;br&gt; 6pm-8:30pm</td>
+        <td>Virtual</td>
+        <td>✔</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <th>**Queeraoke**</th>
+        <td>&lt;span class=&quot;label label-default&quot;&gt;Social&lt;/span&gt; &lt;br&gt; &lt;span class=&quot;label label-success&quot;&gt;Music &amp; Dance&lt;/span&gt;</td>
+        <td>Monday &lt;br&gt; 6pm-9pm</td>
+        <td>London Brewing Co-Op</td>
+        <td>✔</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <th>**Queerdos** &lt;br&gt; *by pflag London*</th>
+        <td>&lt;span class=&quot;label label-default&quot;&gt;Social&lt;/span&gt;</td>
+        <td>3rd Wednesday &lt;br&gt; 6pm-8:30pm</td>
+        <td>&lt;a href=&quot;#&quot; data-toggle=&quot;tooltip&quot; data-original-title=&quot;{{site.data.terms.lochidden}}&quot;&gt;Location Hidden&lt;/a&gt;</td>
+        <td>✔</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <th>**Queer Crafters** &lt;br&gt; *by Queer Nexus*</th>
+        <td>&lt;span class=&quot;label label-default&quot;&gt;Social&lt;/span&gt; &lt;br&gt; &lt;span class=&quot;label label-third&quot;&gt;Arts &amp; Crafts&lt;/span&gt;</td>
+        <td>1st Monday &lt;br&gt; 12pm-2pm</td>
+        <td>Tea Haus</td>
+        <td>✔</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <th>**Queer Sewcial** &lt;br&gt; *by QX*</th>
+        <td>&lt;span class=&quot;label label-default&quot;&gt;Social&lt;/span&gt; &lt;br&gt; &lt;span class=&quot;label label-third&quot;&gt;Arts &amp; Crafts&lt;/span&gt;</td>
+        <td></td>
+        <td>Central Library</td>
+        <td>✔</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <th>**Sr Youth Group** &lt;br&gt; *by pflag London*</th>
+        <td>&lt;span class=&quot;label label-default&quot;&gt;Social&lt;/span&gt; &lt;br&gt; &lt;span class=&quot;label label-fourth&quot;&gt;Youth (14-17)&lt;/span&gt;</td>
+        <td>1st Wednesday &lt;br&gt; 6pm-8:30pm</td>
+        <td>&lt;a href=&quot;#&quot; data-toggle=&quot;tooltip&quot; data-original-title=&quot;{{site.data.terms.lochidden}}&quot;&gt;Location Hidden&lt;/a&gt;</td>
+        <td>✔</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <th>**Social Run** &lt;br&gt; *by Frontrunners*</th>
+        <td>&lt;span class=&quot;label label-default&quot;&gt;Social&lt;/span&gt; &lt;br&gt; &lt;span class=&quot;label label-warning&quot;&gt;Sports &amp; Rec&lt;/span&gt;</td>
+        <td>Tuesday 5:30pm &lt;br&gt; Saturday 9:00am</td>
+        <td>London Bicycle Cafe</td>
+        <td>✔</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <th>**Trans Collective** 🏳️‍⚧️ &lt;br&gt; *by pflag London*</th>
+        <td>&lt;span class=&quot;label label-default&quot;&gt;Social&lt;/span&gt;</td>
+        <td>1st Wednesday &lt;br&gt; 6pm-8:30pm</td>
+        <td>Virtual</td>
+        <td>✔</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <th>**Trans &amp; Friends Social** 🏳️‍⚧ &lt;br&gt; *by Queer Nexus*</th>
+        <td>&lt;span class=&quot;label label-default&quot;&gt;Social&lt;/span&gt;</td>
+        <td>Varying Dates &amp; Time</td>
+        <td>Covent Garden Market</td>
+        <td>✔</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <th>**Trans\* London Social** 🏳️‍⚧️ &lt;br&gt; *by pflag London*</th>
+        <td>&lt;span class=&quot;label label-default&quot;&gt;Social&lt;/span&gt;</td>
+        <td>4th Wednesday &lt;br&gt; 6pm-8:30pm</td>
+        <td>&lt;a href=&quot;#&quot; data-toggle=&quot;tooltip&quot; data-original-title=&quot;{{site.data.terms.lochidden}}&quot;&gt;Location Hidden&lt;/a&gt;</td>
+        <td>✔</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <th>**Trans &amp; NB Munch** 🔞 🏳️‍⚧️</th>
+        <td>&lt;span class=&quot;label label-default&quot;&gt;Social&lt;/span&gt; &lt;br&gt; &lt;span class=&quot;label label-danger&quot;&gt;Adults (18+)&lt;/span&gt;</td>
+        <td>2nd Saturday &lt;br&gt; 3:30pm-5:30pm</td>
+        <td>&lt;a href=&quot;#&quot; data-toggle=&quot;tooltip&quot; data-original-title=&quot;{{site.data.terms.lochidden}}&quot;&gt;Location Hidden&lt;/a&gt; &lt;br&gt; &lt;a href=&quot;#&quot; data-toggle=&quot;tooltip&quot; data-original-title=&quot;Prior approval from the organisers required to be able to attend this event.&quot;&gt;Approval Needed&lt;/a&gt;</td>
+        <td>✔</td>
+        <td></td>
+        <td></td>
+    </tr>
+</table>
 
 ## Trans-Friendly Social Venues
 
