@@ -14,7 +14,7 @@ permalink: org_ontariocan.html
 | Organisation  | Description |
 | :---------------- | :----------- |
 | [Welcome Friend Association](https://welcomefriend.ca/) | Serving the LGBTQ+ community but has deep roots in Northern Ontario |
-| [Rainbow Health Ontario](https://www.rainbowhealthontario.ca/) | RHO is the backbone of trans medical care in the province of Ontario. They author <br> the clinical guidelines for administering HRT and gender-affirming surgeries <br> used by Ontario gender affirming care providers. Furthermore, they train <br> medical professionals to deliver competent gender-affirming care.  |
+| [Rainbow Health Ontario](https://www.rainbowhealthontario.ca/) | RHO is the backbone of trans medical care in the province of Ontario. They author the clinical guidelines for administering HRT and gender-affirming surgeries used by Ontario gender affirming care providers. Furthermore, they train medical professionals to deliver competent gender-affirming care.  |
 | [Trans Wellness Ontario](https://www.transwellness.ca/) |  |
 
 ## Canada-wide 
