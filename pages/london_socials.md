@@ -65,6 +65,57 @@ datatable: true
 | **Trans & NB Munch** 🔞 🏳️‍⚧️ | <span class="label label-default">Social</span> <br> <span class="label label-danger">Adults (18+)</span> | 2nd Saturday <br> 3:30pm-5:30pm | <a href="#" data-toggle="tooltip" data-original-title="{{site.data.terms.lochidden}}">Location Hidden</a> <br> <a href="#" data-toggle="tooltip" data-original-title="Prior approval from the organisers required to be able to attend this event.">Approval Needed</a> | ✔ | 
 <div class="datatable-end"></div>
 
+// Formatting function for row details - modify as you need
+function format(d) {
+	// `d` is the original data object for the row
+	return (
+		'<dl>' +
+		'<dt>Full name:</dt>' +
+		'<dd>' +
+		d.name +
+		'</dd>' +
+		'<dt>Extension number:</dt>' +
+		'<dd>' +
+		d.extn +
+		'</dd>' +
+		'<dt>Extra info:</dt>' +
+		'<dd>And any further details here (images etc)...</dd>' +
+		'</dl>'
+	);
+}
+
+let table = new DataTable('#example', {
+	ajax: '../ajax/data/objects.txt',
+	columns: [
+		{
+			className: 'dt-control',
+			orderable: false,
+			data: null,
+			defaultContent: ''
+		},
+		{ data: 'name' },
+		{ data: 'position' },
+		{ data: 'office' },
+		{ data: 'salary' }
+	],
+	order: [[1, 'asc']]
+});
+
+// Add event listener for opening and closing details
+table.on('click', 'tbody td.dt-control', function (e) {
+	let tr = e.target.closest('tr');
+	let row = table.row(tr);
+
+	if (row.child.isShown()) {
+		// This row is already open - close it
+		row.child.hide();
+	}
+	else {
+		// Open this row
+		row.child(format(row.data())).show();
+	}
+});
+
 ## Trans-Friendly Social Venues
 
 | Place Name | Address | Venue Type | Description | Notes |
