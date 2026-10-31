@@ -32,6 +32,10 @@ entries:
       url: /author.html
       output: web, pdf
 
+    - title: Acknowledgements
+      url: /acknowledgement.html
+      output: web, pdf
+
     - title: FAQ
       url: /about.html
       output: web, pdf
