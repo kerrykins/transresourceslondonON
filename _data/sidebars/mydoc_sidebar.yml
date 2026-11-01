@@ -96,18 +96,18 @@ entries:
       url: /gac_guidelines.html
       output: web, pdf
       
-    subfolders:
-      - title: Hormone Replacement Therapy (HRT)
-        output: web
-        subfolderitems:
+        subfolders:
+            - title: Hormone Replacement Therapy (HRT)
+            output: web
+            subfolderitems:
 
-        - title: HRT (Formal Healthcare System)
-          url: /gac_hrt.html
-          output: web
+                - title: HRT (Formal Healthcare System)
+                    url: /gac_hrt.html
+                    output: web
 
-        - title: HRT (DIY)
-          url: /gac_selfhrt.html
-          output: web
+                - title: HRT (DIY)
+                    url: /gac_selfhrt.html
+                    output: web
 
     - title: Transition Related Surgeries (TRS) 
       url: /gac_trs.html
