@@ -40,9 +40,9 @@ Even though this section includes non-London, ON locations, I've decided to incl
 
 | Name | Location | Supplies | Pricing | Notes | 
 | :------  | :----- | :------ | 
-| [Harm Reduction Sites](https://ohrdp.ca/find-supplies/) | Throughout Ontario | Sterile single-use injection supplies, sharps disposal, needle gauge/syringe sizes may vary. | Free | Uusally free with varying selections. |
-| [Hive Health Services](https://guelphchc.ca/hivehealthservices/) <br> <span class="label label-danger">Pickup Only</span> | Guelph | Sterile single-use injection supplies, sharps containers and disposal, needle gauge/syringe sizes may vary. | Free | |
-| [MAX Ottawa Tea2Go](https://maxottawa.ca/programs-and-services/tea-to-go/) | Ottawa | Syringes, subQ needles, IM needles, alcohol swabs, sharps bins | Free | Pickups & Free shipping |
+| [Harm Reduction Sites](https://ohrdp.ca/find-supplies/) | Throughout Ontario | Sterile single-use injection supplies <br> Sharps disposal | Free | Uusally free with varying selections <br> Needle gauge/syringe sizes may vary|
+| [Hive Health Services](https://guelphchc.ca/hivehealthservices/) <br> <span class="label label-danger">Pickup Only</span> | Guelph | Sterile single-use injection supplies <br> Sharps containers & disposal | Free | Needle gauge/syringe sizes may vary. |
+| [MAX Ottawa Tea2Go](https://maxottawa.ca/programs-and-services/tea-to-go/) | Ottawa | Syringes <br> SubQ needles <br> IM needles <br> Alcohol swabs <br> Sharps bins | Free | Pickups & Free shipping |
 | [Pieces to Pathways/Breakaway Community Services](https://breakawaycs.ca/programs/pieces-to-pathways/) | Toronto | Injection supplies | Free | Pickups and delivery to West Downtown TO only |
 | [Planned Parenthood](https://ppt.on.ca/) <br> <span class="label label-danger">Pickup Only</span> | Toronto | Injection supplies |  | ~3 mths of injection supplies for age 13-29 <br> Does not need to be a PPT patient |
 | [Sherbourne Health HRT Bulk Order Program](https://forms.office.com/Pages/ResponsePage.aspx?id=GKOGaod_d0iziJ1ByX4JopRdL0vsJ1FLo5vJReNTWFBUOVdCUlVMMjE2T0g4OUhWTFM0WjdZNkNEMi4u&origin=QRCode) <br> <span class="label label-danger">Pickup Only</span> | Toronto | Injection Supplies <br> Alcohol Swabs <br> Sharps bins | Free | 5 boxes (100 units/box) of syringes, needles of various sizes, alcohol swabs, sharp bins, and self-admin resources |
