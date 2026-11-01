@@ -38,7 +38,7 @@ Provider Name   | Type of Provider                           | Services | Notes
 **Dr. Debbie Penava** | OB/GYN | <span class="label label-third">OB/GYN</span> |  
 **Dr. Laura Sovran** | OB/GYN | <span class="label label-third">OB/GYN</span> | 
 **Dr. Stephanie Black** | OB/GYN | <span class="label label-third">OB/GYN</span> | 
-**Dr. Stephanie Moltner** | OB/GYN | <span class="label label-success">HRT</span> <br> <span class="label label-third">OB/GYN</span> <br> <span class="label label-safe">Post-Op Care </span> | 
+**Dr. Stephanie Moltner** | OB/GYN | <span class="label label-success">HRT</span> <br> <span class="label label-third">OB/GYN</span> <br> <span class="label label-safe">Post-Op Care </span> | WPATH certified
 [**CAMH Gender Identity Clinic**](https://www.camh.ca/en/patients-and-families/programs-and-services/gender-identity-clinic-adult) <br> *Virtual* | Psychiatry | <span class="label label-info">1st Surgery Assess.</span> <br> <span class="label label-warning">2nd Surgery Assess.</span> <br> <span class="label label-fourth">Psychiatry</span> <br> <span class="label label-default">Psychosocial Support</span> | 17+ only. <br> No HRT 
 
 <div class="datatable-end"></div>

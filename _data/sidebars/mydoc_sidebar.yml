@@ -95,17 +95,22 @@ entries:
     - title: Accessing Gender Affirming Care & Guidelines 
       url: /gac_guidelines.html
       output: web, pdf
+      
+    subfolders:
+      - title: Hormone Replacement Therapy (HRT)
+        output: web
+        subfolderitems:
 
-    - title: Hormone Replacement Therapy (HRT) 
-      url: /gac_hrt.html
-      output: web, pdf
+        - title: HRT (Formal Healthcare System)
+          url: /gac_hrt.html
+          output: web
+
+        - title: HRT (DIY)
+          url: /gac_selfhrt.html
+          output: web
 
     - title: Transition Related Surgeries (TRS) 
       url: /gac_trs.html
-      output: web, pdf
-
-    - title: Self Medicating HRT
-      url: /gac_selfhrt.html
       output: web, pdf
 
   - title: London Specific Resources
