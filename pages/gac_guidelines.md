@@ -24,6 +24,10 @@ In Ontario, prescrbing hormone repalcement therapy (HRT) operates on an informed
 
 A willing physician (family doctors or specialists) or a nurse practitioner can prescribe hormones once they make sure you fully understand the  medical effects, risks, and timelines. Once again, if your PCP cannot prescribe HRT, they must refer you to a specialist (like an endocrinologist) or an affirming clinic/clinician that uses informed consent. 
 
+### Self-Medicating HRT (DIY)
+
+For a variety of valid reasons such as negative experiences with the formal healthcare system, accessibility, or desiring more control over hormone therapy, some trans people may choose to self-administer hormones outside of a formal healthcare setting. For more information, see [here](https://kerrykins.github.io/transresourceslondonON/gac_selfhrt.html). 
+
 ## Accessing Transition-Related Surgeries (TRS)
 
 Unlike HRT's informed consent model, OHIP-funded surgeries require provincial approval. Different surgeries require different formal surgical assessments (e.g., chest surgeries require one assessment whereas bottom surgeries require two). 
