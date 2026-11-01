@@ -8,8 +8,6 @@ sidebar: mydoc_sidebar
 permalink: london_injection.html
 ---
 
-{% include note.html content="This section is a work in progress." %}
-
 ## In-Person (London, ON)
 
 | Name | Supplies | Pricing | Injection Training (HRT)

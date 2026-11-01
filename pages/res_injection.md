@@ -9,6 +9,8 @@ permalink: res_injection.html
 
 ---
 
+{% include note.html content="This section is a work in progress." %}
+
 TBA
 
 - [Safer Hormone Injection Guide](https://fenwayhealth.org/wp-content/uploads/2025/06/Hormone-Injection-Guide-V2024-FINAL_WEB.pdf)
