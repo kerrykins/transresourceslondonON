@@ -8,6 +8,8 @@ sidebar: mydoc_sidebar
 permalink: london_injection.html
 ---
 
+{% include note.html content="Resources and guides about injections can be found on [this resource page](https://kerrykins.github.io/transresourceslondonON/res_injection.html)." %}
+
 ## In-Person (London, ON)
 
 | Name | Supplies | Pricing | Injection Training (HRT)
