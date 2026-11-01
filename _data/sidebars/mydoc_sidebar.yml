@@ -90,8 +90,8 @@ entries:
       
   - title: Medical Gender Affirming Care 
     output: web, pdf
-
     folderitems:
+
     - title: Accessing Gender Affirming Care & Guidelines 
       url: /gac_guidelines.html
       output: web, pdf
