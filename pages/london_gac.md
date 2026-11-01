@@ -62,7 +62,10 @@ Provider Name | Type of Provider | Services | Cost |
 
 <div class="datatable-end"></div>
 
+## Sources
 
+1. Personal lived experience
+2. Virtual options from the [Gender Affirming Resources Ontario](https://docs.google.com/spreadsheets/d/111o63Tvt20heohe9KtRW_AZPBKOz4kpZ1pb7r0CJpvU/edit?gid=0#gid=0) spreadsheet. Same labels for consistency purposes. 
 
 
   
