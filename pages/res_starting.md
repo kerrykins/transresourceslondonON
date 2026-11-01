@@ -32,7 +32,19 @@ permalink: res_starting.html
   - [OHIP Card](https://tinyurl.com/2s4jrxnu)
   - [Birth Certificate](https://tinyurl.com/bdtvp6pb)
   - [Driver's License or Photo Card](https://tinyurl.com/yc3jf62c)
+- [Making Gender and Name Changes on Identity Documents:  A Legal Resource for Two-Spirit, Nonbinary and Trans Communities](https://metrac.org/content/user_files/2022/04/Changing-ID-Legal-Resource-D5-Nov-24.pdf)
 - [Other Places to Change Name Other Than Government IDs](https://tinyurl.com/4whtczpr)
+- [Common Answers about Name and Gender Marker Changes for Trans Youth](https://metrac.org/content/user_files/2022/11/FAQ-name-and-gender-marker-changes-for-trans-youth.pdf)
+- **Service Ontario**
+  - [Change of Name: how to change a first, middle or last name in Ontario](https://www.ontario.ca/page/change-name)
+  - [Change the sex designation on your government IDs](https://www.ontario.ca/page/change-sex-designation-your-government-ids)
+  - [Changing your sex designation on your birth registration and birth certificate](https://www.ontario.ca/page/changing-your-sex-designation-your-birth-registration-and-birth-certificate)
+- **Indigenous Services Canada**
+  - [Change the information on your secure status card](https://www.sac-isc.gc.ca/eng/1695840683920/1695840721105)
+- **Immigration, Refugee and Citizenship Canada (IRCC)**
+  - [How do I change the sex or gender identifier on my application or document?](https://ircc.canada.ca/english/helpcentre/answer.asp?qnum=1253&top=32)
+
+
 
 ## Coming Out
 

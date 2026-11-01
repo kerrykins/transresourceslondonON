@@ -14,3 +14,4 @@ permalink: res_youth.html
 - [Open Closet](https://www.hivaidsconnection.ca/supports/open-closet)
 - Try-U (The Rainbow Youth Umbrella) - email [TRYULondon@gmail.com](mailto:TRYULondon@gmail.com)
 - [Finding a Affirmative Therapist (for LGBTQ+ Youth)](https://www.projectyouthaffirm.org/resources-blog/supporting-lgbtq-youth-through-affirmative-care-finding-a-affirmative-therapist-for-lgbtq-youth)
+- [Common Answers about Name and Gender Marker Changes for Trans Youth](https://metrac.org/content/user_files/2022/11/FAQ-name-and-gender-marker-changes-for-trans-youth.pdf)
