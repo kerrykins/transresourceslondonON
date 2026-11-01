@@ -11,7 +11,7 @@ datatable: true
 
 {% include warning.html content="Direct links to procuring HRT for self-medicating will not be linked here." %}
 
-{% include note.html content="This section is a work in progress." %}
+{% include warning.html content="This section is a work in progress." %}
 
 ## Introduction 
 

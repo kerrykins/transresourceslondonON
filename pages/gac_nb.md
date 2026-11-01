@@ -28,3 +28,8 @@ On the other hand, RHO recognises individualised approaches for non-binary peopl
 | [Gender-affirming endocrine care for youth with a nonbinary gender identity](https://journals.sagepub.com/doi/10.1177/20420188231160405) | Peer-reviewed Article | Peer-reviewed article mentioning SERMs as a potential drug for gender-affirming care.
 | [A Review of Selective Estrogen Receptor Modulators and their Potential <br> for Transfeminine Hormone Therapy](https://transfemscience.org/articles/serms-transfem/) | Community Article | Community-written article about the potential use of SERMs in transfemme hormone therapy. |
 | [An Exploration of Possibilities for Hormone Therapy in Non-Binary Transfeminine People](https://transfemscience.org/articles/nonbinary-transfem-overview/) | Community Article | Community-written article about some possibilities for HRT in transfeminine people. |
+
+## Sources
+- [An Exploration of Possibilities for Hormone Therapy in Non-Binary Transfeminine People](https://transfemscience.org/articles/nonbinary-transfem-overview/)
+- [Guidelines for Gender-affirming Primary Care with Trans and Non-Binary Patients](https://www.rainbowhealthontario.ca/product/4th-edition-sherbournes-guidelines-for-gender-affirming-primary-care-with-trans-and-non-binary-patients/)
+- [Queer Health DIY Roadmap](https://www.queerhealth.info/projects/diyhrt)
