@@ -10,6 +10,9 @@ permalink: london_id.html
 
 {% include note.html content="This section is a work in progress." %}
 
+{% include note.html content="Resources and guides about ID changes can be found on [this resource page](https://kerrykins.github.io/transresourceslondonON/res_starting.html#changing-your-legal-documents)." %}
+
+
 ## Clinics available to London, ON community 
 
 ### [**Trans ID Clinic**](https://www.the519.org/programs/trans-id-clinic/) <span class="label label-warning">Virtual</span>
