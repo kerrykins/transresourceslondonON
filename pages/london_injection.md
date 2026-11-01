@@ -12,9 +12,14 @@ permalink: london_injection.html
 
 ## In-Person 
 
-| Name | Notes |
+| Name | Supplies | Pricing | Injection Training (HRT)
 | :------  | :------ | 
-| Walmart | - You can buy alcohol swabs and bandages in store. |
+| [Middlesex-London Health Unit](https://www.healthunit.com/services-and-clinics/health-services/needle-syringe-program/) | Needles & Syringes <br> Sharps containers <br> Alcohol swabs <br> Sterile water <br> Safer injection kits <br> Educational resources | Free | |
+| [North London Medical Pharmacy](https://nlmpharmacy.com/services.html) | Injection supplies | Contact pharmacy | ✔ | 
+| [LMC Pharmacy](https://aeswellnessportal.ca/Services/Display/199522/London) | Injection Supplies | Contact pharmacy | ✔ | 
+| [True North Compounding](https://truenorthcompounding.ca/womens-health) | Injection supplies | Contact pharmacy | ✔ | 
+| Walmart | Varying selections <br> You can buy alcohol swabs and bandages in store. | Varies | |
+
 
 
 ## Online 
