@@ -92,7 +92,7 @@ entries:
     output: web, pdf
     folderitems:
 
-    - title: Accessing Gender Affirming Care & Guidelines 
+    - title: Accessing Gender Affirming Care & Guidelines
       url: /gac_guidelines.html
       output: web, pdf
 
@@ -100,7 +100,7 @@ entries:
       url: /gac_hrt.html
       output: web, pdf
       
-    - title: HRT (DIY) 
+    - title: HRT (DIY)
       url: /gac_selfhrt.html
       output: web, pdf
       
@@ -108,7 +108,7 @@ entries:
       url: /gac_nb.html
       output: web, pdf
       
-     - title: Transition Related Surgeries (TRS) 
+     - title: Transition Related Surgeries (TRS)
       url: /gac_trs.html
       output: web, pdf
 
