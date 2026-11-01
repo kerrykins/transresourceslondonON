@@ -35,6 +35,10 @@ entries:
     - title: Acknowledgements
       url: /acknowledgement.html
       output: web, pdf
+      
+    - title: Information Gaps
+      url: /gaps.html
+      output: web, pdf
 
     - title: FAQ
       url: /about.html
