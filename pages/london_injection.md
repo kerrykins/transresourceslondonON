@@ -10,16 +10,15 @@ permalink: london_injection.html
 
 {% include note.html content="This section is a work in progress." %}
 
-## In-Person 
+## In-Person (London, ON)
 
 | Name | Supplies | Pricing | Injection Training (HRT)
 | :------  | :------ | 
 | [Middlesex-London Health Unit](https://www.healthunit.com/services-and-clinics/health-services/needle-syringe-program/) | Needles & Syringes <br> Sharps containers <br> Alcohol swabs <br> Sterile water <br> Safer injection kits <br> Educational resources | Free | |
 | [North London Medical Pharmacy](https://nlmpharmacy.com/services.html) | Injection supplies | Contact pharmacy | ✔ | 
-| [LMC Pharmacy](https://aeswellnessportal.ca/Services/Display/199522/London) | Injection Supplies | Contact pharmacy | ✔ | 
+| [LMC Pharmacy](https://aeswellnessportal.ca/Services/Display/199522/London) | Injection supplies | Contact pharmacy | ✔ | 
 | [True North Compounding](https://truenorthcompounding.ca/womens-health) | Injection supplies | Contact pharmacy | ✔ | 
 | Walmart | Varying selections <br> You can buy alcohol swabs and bandages in store. | Varies | |
-
 
 
 ## Online 
@@ -35,7 +34,7 @@ permalink: london_injection.html
 | [Surgo](https://www.surgo.com/) | **Boxes:** Syringes, syringe-needle combos, subQ needles, IM needles | Shipping information on website <br> Based in Newmarket, ON |
 | Amazon | Varying supplies | Can be poor quality control, not a recommended source |
 | [Emerdepot](https://emerdepot.com/) | **Boxes:** Syringes, syringe-needle combos, subQ needles, IM needles | In store pickup available <br> Shipping on website <br> Based in Toronto, ON |
-| [Pace Pharmacy](https://pacepharmacy.com/) | Boxes and Singles: Syringes, syringe-needle combos, subQ needles, IM needles | In store available <br> Shipping free over $99 <br> Based in Toronto, ON |
+| [Pace Pharmacy](https://pacepharmacy.com/) | **Boxes and Singles:** Syringes, syringe-needle combos, subQ needles, IM needles | In store available <br> Shipping free over $99 <br> Based in Toronto, ON |
 | [Starkman's](https://starkmans.com/) | **Boxes:** Syringes, syringe-needle combos, subQ needles, IM needles <br> **Singles:** Syringes, syringe-needle combos, subQ needles, IM needles" | In-store pickup available <Lbr> Shipping free over $200 in Canada, otherwise $19.95 <br> Based in Toronto, ON |
 | [Wellnessmed Supply](https://mywellcare.ca/) | **Boxes:** Syringes, syringe-needle combos, subQ needles, IM needles | Curbside pickup available <br> Shipping free over $50 <br> Based in Concord, ON |
 
