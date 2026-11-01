@@ -12,5 +12,6 @@ permalink: london_voice.html
 
 | Service Name | Details |
 | :----- | :----- |
-| [**Sophie Edwards**](https://sbedwards.co/transgender-voice-feminization-coaching/) | Transgender MTF focus <br> Virtual (from Toronto) <br> Free introductory session
-| [**Voice Clinic @ St. Michael's Hospital**](https://drive.google.com/file/d/1soJyOnpnPQVUEEnkh5YBKfWlPwOD_Pr9/view) | 18+ <br> Feminisation focus <br> Virtual only <br> 4 entry points per year <br> Faciliated by Speech-Language Pathologists <br> 10 weeks or group sessions + individual assessments + mid-point check-ins <br> Sliding scale of $10-$45 per session |
+| [**Sophie Edwards**](https://sbedwards.co/transgender-voice-feminization-coaching/) <br> <span class="label label-warning">Virtual</span> | Transgender MTF focus <br> Virtual (from Toronto) <br> Free introductory session
+| [**Voice Clinic @ St. Michael's Hospital**](https://drive.google.com/file/d/1soJyOnpnPQVUEEnkh5YBKfWlPwOD_Pr9/view) <br> <span class="label label-warning">Virtual</span> | 18+ <br> Feminisation focus <br> Virtual only <br> 4 entry points per year <br> Faciliated by Speech-Language Pathologists <br> 10 weeks or group sessions + individual assessments + mid-point check-ins <br> Sliding scale of $10-$45 per session |
+| [**Voice by Kylie**](https://www.voicebykylie.com/) <br> <span class="label label-warning">Virtual</span> | Voice feminisation <br> Voice masculinisation <br> Voice androgynisation |

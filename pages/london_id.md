@@ -37,7 +37,7 @@ The Trans ID Clinic (in partnership with McCarthy Tétrault) provides **virtual*
 
 ### Closed Intake 
 
-[**Kind Space Trans ID Clinic**](https://www.kindspace.ca/trans-id-clinic) <span class="label label-warning">Virtual</span> <span class="label label-warning">CLOSED</span>
+[**Kind Space Trans ID Clinic**](https://www.kindspace.ca/trans-id-clinic) <span class="label label-warning">Virtual</span> <span class="label label-danger">CLOSED</span>
 The Trans ID Clinic is a free, legal information service for those interested in the process of changing your name and/or gender marker on government issued documents. Appointments with the clinic are done **virtually** expect in special exceptions.
 
 Note that signing of legal documents will be done in-person. 
