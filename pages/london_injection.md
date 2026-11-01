@@ -15,16 +15,24 @@ permalink: london_injection.html
 | Name | Notes |
 | :------  | :------ | 
 | Walmart | - You can buy alcohol swabs and bandages in store. |
-| Amazon | |
+
 
 ## Online 
 
-| Name | Notes | 
-| :------  | :------ | 
+| Name | Notes | Shipping |
+| :------  | :------ | :----- |
 | [Medlab Gear](https://medlabgear.com/) | |
-| [United Canada](https://unitedcanadainc.com/collections/needles-syringes) | Free shipping on orders above $99 |
+| [United Canada](https://unitedcanadainc.com/collections/needles-syringes) | | Free shipping on orders above $99 
 | [C6.ca](https://c6.ca/) | [200 pack of 1mL syringes](https://c6.ca/collections/syringes-blood-draw/products/1ml-sol-m%E2%84%A2-syringe-luer-lock) <br> [100 pack of 1.5 inch 22g needles for drawing out liquid (not recommended for injecting)](https://c6.ca/products/22g-x-1-1-2-sol-m%E2%84%A2-hypodermic-needle-100-per-box) <br> [100 pack of 1 inch 25g needles for injecting](https://c6.ca/products/25g-x-1-sol-m%E2%84%A2-hypodermic-needle-100-per-box) <br> [200 pack of alcohol prep pads for sanitizing top of your vial/injection site](https://c6.ca/products/kasel-antiseptic-prep-pads) <br> [Optional: 50 pack of bandages](https://c6.ca/products/curity-fabric-bandages-various-sizes) | 
 | [Lifesupply](https://lifesupply.ca) | [200 pack of 1mL syringes](https://lifesupply.ca/bd-309659-slip-tip-sterile-plastic-syringe-1cc-bx-200/) <br> [100 pack of 1.5 inch 20g needles for drawing out liquid (not recommended for injecting)](https://lifesupply.ca/bd-305176-precisionglide-conventional-needle-sterile-regular-bevel-20g-x-33mm-1-5-100-bx-box/) <br> [100 pack of 1 inch 25g needles for injecting](https://lifesupply.ca/bd-305125-precisionglide-sterile-conventional-needle-blue-regular-wall-25g-x-25mm-1-100-bx/) <br> [200 pack of alcohol prep pads for sanitizing top of your vial/injection site](https://lifesupply.ca/bd-326910-alcohol-swab-bx-100/) <br> [Optional: 50 pack of bandages](https://lifesupply.ca/amg-018-600-medpro-sterilized-adhesive-plastic-bandages-3-4-x-3-100-bx/) |
+| Bondi Medical | Boxes: Syringes, syringe-needle combos, subQ needles, IM needles | Shipping: Free over $200 |
+| [Dormex Pharma](https://domrexpharma.com/) | Boxes: Syringes, syringe-needle combos, subQ needles, IM needles | Shipping costs determined at checkout <br> Based in Quebec |
+| [Surgo](https://www.surgo.com/) | Boxes: Syringes, syringe-needle combos, subQ needles, IM needles | Shipping information on website <br> Based in Newmarket, ON |
+| Amazon | Varying supplies | Can be poor quality control, not a recommended source |
+| [Emerdepot](https://emerdepot.com/) | Boxes: Syringes, syringe-needle combos, subQ needles, IM needles | In store pickup available <br> Shipping on website <br> Based in Toronto, ON |
+| [Pace Pharmacy](https://pacepharmacy.com/) | Boxes and Singles: Syringes, syringe-needle combos, subQ needles, IM needles | In store available <br> Shipping free over $99 <br> Based in Toronto, ON |
+| [Starkman's](https://starkmans.com/) | "Boxes: Syringes, syringe-needle combos, subQ needles, IM needles <br> Singles: Syringes, syringe-needle combos, subQ needles, IM needles" | In-store pickup available <Lbr> Shipping free over $200 in Canada, otherwise $19.95 <br> Based in Toronto, ON |
+| [Wellnessmed Supply](https://mywellcare.ca/) | Boxes: Syringes, syringe-needle combos, subQ needles, IM needles | Curbside pickup available <br> Shipping free over $50 <br> Based in Concord, ON |
 
 ## Free Supplies 
 
