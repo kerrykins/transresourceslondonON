@@ -46,4 +46,4 @@ Note that signing of legal documents will be done in-person.
 
 ## Other Clinics 
 
-Other clinics that operate in Ontario but have no virtual options (thus not available to London, ON community) can be found [here](_
+Other clinics that operate in Ontario but have no virtual options (thus not available to London, ON community) can be found [here](https://docs.google.com/spreadsheets/d/111o63Tvt20heohe9KtRW_AZPBKOz4kpZ1pb7r0CJpvU/edit?gid=682950100#gid=682950100)
